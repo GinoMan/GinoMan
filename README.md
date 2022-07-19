@@ -97,7 +97,9 @@ This UI was built to log phone calls and the machines they were associated with 
 
 <!-- <img style="margin-left: 25%; margin-right: 25%; width: 50%" alt="Call Recorder UI Mockup" src="/Assets/UIs/2020-10-15%2021_47_35-Support%20Call%20Logger.png" /> -->
 
-<img alt="Call Recorder UI Mockup" src="/Assets/UIs/2020-10-15%2021_47_35-Support%20Call%20Logger.png" align="center" />
+<div style="text-align: center;">
+<img alt="Call Recorder UI Mockup" src="/Assets/UIs/2020-10-15%2021_47_35-Support%20Call%20Logger.png" />
+</div>
 
 # My Approach to Programming #
 
