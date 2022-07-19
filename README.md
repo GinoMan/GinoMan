@@ -14,12 +14,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <a href="https://ginovincenzini.com"><img src="/Assets/ginov_logo_web.svg" style="width: 50%; margin-left: 25%; margin-right: 25%;" /></a> -->
 <div align="center">
 <a href="https://ginovincenzini.com"><img src="/Assets/ginov_logo_web.svg" width="50%" /></a>
 </div>
 
 # Table of Contents #
+
+- [Badges](#badges)
+- [Mission Statement](#mission-statement)
+- [Bio](#bio)
+- [Currently Working On](#im-currently-working-on)
+- [Currently Learning](#im-currently-learning)
+- [Technologies I know](#technologies-i-know)
+	- [Programming Languages](#programming-languages)
+	- [Dev-Ops](#dev-ops)
+	- [Frameworks and Packages](#frameworks-and-packages)
+- [My Approach](#my-approach-to-programming)
+- [Graphic Design](#graphic-design)
+	- [Print](#print)
+		- [Book Covers](#book-covers)
+	- [Grids](#grids)
+	- [Social Media Banners](#social-media-banners)
+	- [UI Design](#ui-design)
+- [Fun Facts](#fun-facts-about-ginoman)
 
 # Badges #
 
@@ -33,7 +50,7 @@ Here are some ideas to get you started:
 
 # Bio #
 
-Gino Vincenzini is a programmer, designer, and consultant living in Chester County Pennsylvania with his wife, one son, and cat. He has 
+Gino Vincenzini is a programmer, designer, and consultant living in Chester County Pennsylvania with his wife, one son, and cat.
 
 # I'm Currently Working on #
 
@@ -54,10 +71,14 @@ Gino Vincenzini is a programmer, designer, and consultant living in Chester Coun
 # My Approach to Programming #
 
 - Completion: The project isn't done unless the code is documented, tested, and flexible.
-- Proven Design Principles: I adhere to proven design principles in a judicious manner. These include SOLID, DRY, YAGNI, and similar advice.
-- Outside In: I create new software from the outside in, first considering all of the libraries, inputs, outputs, and UI needed to make the program work, and then write the core logic to connect these components together.
-- Speak the Language: I don't write assembly in Java, I don't write C++ in Python. Learning a programming language means learning not just its components, its libraries, and its syntax, but also its idioms.
-- Building on the work: As programmers, we stand on the shoulders of the engineers who came before us. Proven solutions to problems are better than rolling our own, and most of the problems we face as programmers have been solved before by other programmers.
+- Proven Design Principles: I adhere to proven design principles in a judicious manner. These include SOLID, DRY, YAGNI,
+and similar advice.
+- Outside In: I create new software from the outside in, first considering all of the libraries, inputs, outputs, and UI needed to
+make the program work, and then write the core logic to connect these components together.
+- Speak the Language: I don't write assembly in Java, I don't write C++ in Python. Learning a programming language means learning
+not just its components, its libraries, and its syntax, but also its idioms.
+- Building on the work: As programmers, we stand on the shoulders of the engineers who came before us. Proven solutions to
+problems are better than rolling our own, and most of the problems we face as programmers have been solved before by other programmers.
 
 # Graphic Design #
 
