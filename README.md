@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 [![Authorship Badge](./Assets/Badges/Author-Gino%20Vincenzini-brightgreen-badge.png)](https://ginovincenzini.com/)
 
+
+
 # Mission Statement #
 
 
@@ -49,17 +51,25 @@ Gino Vincenzini is a programmer, designer, and consultant living in Chester Coun
 
 ## Frameworks and Packages ##
 
-## Graphic Design ##
+# My Approach to Programming #
 
-### Print ###
+- Completion: The project isn't done unless the code is documented, tested, and flexible.
+- Proven Design Principles: I adhere to proven design principles in a judicious manner. These include SOLID, DRY, YAGNI, and similar advice.
+- Outside In: I create new software from the outside in, first considering all of the libraries, inputs, outputs, and UI needed to make the program work, and then write the core logic to connect these components together.
+- Speak the Language: I don't write assembly in Java, I don't write C++ in Python. Learning a programming language means learning not just its components, its libraries, and its syntax, but also its idioms.
+- Building on the work: As programmers, we stand on the shoulders of the engineers who came before us. Proven solutions to problems are better than rolling our own, and most of the problems we face as programmers have been solved before by other programmers.
 
-#### Book Covers ####
+# Graphic Design #
+
+## Print ##
+
+### Book Covers ###
 
 <div align="center">
 <img width="50%" alt="Urwid Handbook" src="/Assets/Print%20Design/Urwid%20Handbook%20Cover.png" />
 </div>
 
-### Grids ###
+## Grids ##
 
 I created these grids in GIMP because I could not find steam grids for them online. Very little of what's in these grids represents my own artwork, instead, I used the editor to combine freely available assets on the internet to create the final image.
 
@@ -73,7 +83,7 @@ I created these grids in GIMP because I could not find steam grids for them onli
 | ![Super Metroid Redesign][grids19] | ![Chex Quest][grids20] | ![VBA][grids21] |
 |  | ![Visual Boy Advanced - Debug][grids22] |  |
 
-### Social Media Banners ###
+## Social Media Banners ##
 
 I created these banners to help my church advertise their small groups on social media.
 
@@ -87,7 +97,7 @@ I created these banners to help my church advertise their small groups on social
 
 ------------------------
 
-## UI Design
+## UI Design ##
 
 ### Billable Call Recorder ###
 
@@ -99,22 +109,11 @@ This UI was built to log phone calls and the machines they were associated with 
 <img alt="Call Recorder UI Mockup" src="/Assets/UIs/2020-10-15%2021_47_35-Support%20Call%20Logger.png" />
 </div>
 
-# My Approach to Programming #
-
-- Completion: The project isn't done unless the code is documented, tested, and flexible.
-- Proven Design Principles: I adhere to proven design principles in a judicious manner. These include SOLID, DRY, YAGNI, and similar advice.
-- Outside In: I create new software from the outside in, first considering all of the libraries, inputs, outputs, and UI needed to make the program work, and then write the core logic to connect these components together.
-- Speak the Language: I don't write assembly in Java, I don't write C++ in Python. Learning a programming language means learning not just its components, its libraries, and its syntax, but also its idioms.
-- Building on the work: As programmers, we stand on the shoulders of the engineers who came before us. Proven solutions to problems are better than rolling our own, and most of the problems we face as programmers have been solved before by other programmers.
-
 # Fun Facts About GinoMan #
 
-- His first name is a nickname for an Italian name meaning "king".
-- His last name is related to the Italian word for "Victory".
 - His first programming language was QBasic.
-- He doesn't talk about Bruno
+- He doesn't talk about Bruno... But he'll sing about him.
 - According to his son, he gives really warm hugs and is so silly.
-
 
 [grids01]: /Assets/Grids/Alpha%20Mission%20Full.png
 [grids02]: /Assets/Grids/Alpha%20Mission%202.png
