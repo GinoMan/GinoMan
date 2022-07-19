@@ -15,13 +15,9 @@ Here are some ideas to get you started:
 -->
 
 <!-- <a href="https://ginovincenzini.com"><img src="/Assets/ginov_logo_web.svg" style="width: 50%; margin-left: 25%; margin-right: 25%;" /></a> -->
-<table>
-<tr>
-<th>
+<div align="center">
 <a href="https://ginovincenzini.com"><img src="/Assets/ginov_logo_web.svg" width="50%" /></a>
-</th>
-</tr>
-</table>
+</div>
 
 # Table of Contents #
 
@@ -59,7 +55,9 @@ Gino Vincenzini is a programmer, designer, and consultant living in Chester Coun
 
 #### Book Covers ####
 
-![Urwid Handbook](/Assets/Print%20Design/Urwid%20Handbook%20Cover.png)
+<div align="center">
+<img width="50%" alt="Urwid Handbook" src="/Assets/Print%20Design/Urwid%20Handbook%20Cover.png" />
+</div>
 
 ### Grids ###
 
@@ -97,7 +95,7 @@ This UI was built to log phone calls and the machines they were associated with 
 
 <!-- <img style="margin-left: 25%; margin-right: 25%; width: 50%" alt="Call Recorder UI Mockup" src="/Assets/UIs/2020-10-15%2021_47_35-Support%20Call%20Logger.png" /> -->
 
-<div style="text-align: center;">
+<div align="center">
 <img alt="Call Recorder UI Mockup" src="/Assets/UIs/2020-10-15%2021_47_35-Support%20Call%20Logger.png" />
 </div>
 
