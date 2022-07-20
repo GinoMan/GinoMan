@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 # Mission Statement #
 
 
-
 # Bio #
 
 Gino Vincenzini is a programmer, designer, and consultant living in Chester County Pennsylvania with his wife Marcela, son Ethan, and their cat Charlie. He often spends his free time programming or helping others learn programming.
@@ -64,12 +63,14 @@ Gino Vincenzini is a programmer, designer, and consultant living in Chester Coun
 
 # I'm Currently Learning #
 
+<a href="https://www.mongodb.com">
 <table><tr><td>
 <img alt="MongoDB" width="100" src="/Assets/Icons/mongodb.svg" />
 </td>
 <td rowspan="2">MongoDB is a NoSQL Database that stores information in collections of documents. I plan to use Mongo for my own website.</td>
 </tr>
 <tr align="center"><td>MongoDB</td></tr></table>
+</a>
 
 # Technologies I Know #
 
@@ -80,7 +81,9 @@ Programming Languages:
 <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/python.svg" alt="Python 3.10" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/php.svg" alt="PHP 7.0" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/javascript.svg" alt="JavaScript" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/cplusplus.svg" alt="C++" /> <img width="50" src="/Assets/Icons/autohotkey.svg" alt="AutoHotKey" /><br />
 
 <!-- Add The following Languages:
+- C Programming Language
 - 
+[![Scratch Proficient](https://img.shields.io/badge/Scratch-Proficient-darkgreen?logo=scratch&logoColor=white&style=flat)](https://scratch.mit.edu/)
 -->
 
 Document Languages:
@@ -101,45 +104,45 @@ Document Languages:
 
 ## Frameworks and Packages ##
 
-[![MongoDB Learning](https://img.shields.io/badge/MongoDB-Learning-orange?logo=mongodb&logoColor=white&style=flat)]()
+[![MongoDB Learning](https://img.shields.io/badge/MongoDB-Learning-orange?logo=mongodb&logoColor=white&style=flat)](https://www.mongodb.com)
 [![.NET Proficient](https://img.shields.io/badge/.NET-Proficient-darkgreen?logo=dotnet&logoColor=white&style=flat)](https://dotnet.microsoft.com/en-us/)
 [![Chocolatey Proficient](https://img.shields.io/badge/Chocolatey-Proficient-darkgreen?logo=chocolatey&logoColor=white&style=flat)](https://community.chocolatey.org/)
-[![Flask Proficient](https://img.shields.io/badge/Flask-Proficient-darkgreen?logo=flask&logoColor=white&style=flat)]()
-[![Font Awesome Proficient](https://img.shields.io/badge/Font%20Awesome-Proficient-darkgreen?logo=fontawesome&logoColor=white&style=flat)]()
-[![Jinja2 Proficient](https://img.shields.io/badge/Jinja2-Proficient-darkgreen?logo=jinja&logoColor=white&style=flat)]()
-[![Replit Proficient](https://img.shields.io/badge/Replit-Proficient-darkgreen?logo=replit&logoColor=white&style=flat)]()
-[![Scratch Proficient](https://img.shields.io/badge/Scratch-Proficient-darkgreen?logo=scratch&logoColor=white&style=flat)]()
-[![Solid Proficient](https://img.shields.io/badge/Solid-Proficient-darkgreen?logo=solid&logoColor=white&style=flat)]()
-[![Unity3D Proficient](https://img.shields.io/badge/Unity3D-Proficient-darkgreen?logo=unity&logoColor=white&style=flat)]()
-[![Unsplash Proficient](https://img.shields.io/badge/Unsplash-Proficient-darkgreen?logo=unsplash&logoColor=white&style=flat)]()
-[![Wordpress Proficient](https://img.shields.io/badge/Wordpress-Proficient-darkgreen?logo=wordpress&logoColor=white&style=flat)]()
+[![Flask Proficient](https://img.shields.io/badge/Flask-Proficient-darkgreen?logo=flask&logoColor=white&style=flat)](https://flask.palletsprojects.com)
+[![Font Awesome Proficient](https://img.shields.io/badge/Font%20Awesome-Proficient-darkgreen?logo=fontawesome&logoColor=white&style=flat)](https://fontawesome.com/)
+[![Jinja2 Proficient](https://img.shields.io/badge/Jinja2-Proficient-darkgreen?logo=jinja&logoColor=white&style=flat)](https://jinja.palletsprojects.com)
+[![Replit Proficient](https://img.shields.io/badge/Replit-Proficient-darkgreen?logo=replit&logoColor=white&style=flat)](https://replit.com/@GinoMan)
+[![Unity3D Proficient](https://img.shields.io/badge/Unity3D-Proficient-darkgreen?logo=unity&logoColor=white&style=flat)](https://unity.com/)
+[![Unsplash Proficient](https://img.shields.io/badge/Unsplash-Proficient-darkgreen?logo=unsplash&logoColor=white&style=flat)](https://unsplash.com/)
+[![Wordpress Proficient](https://img.shields.io/badge/Wordpress-Proficient-darkgreen?logo=wordpress&logoColor=white&style=flat)](https://wordpress.org/)
 [![Apache Intermediate](https://img.shields.io/badge/Apache%20HTTPd-Intermediate-yellowgreen?logo=apache&logoColor=white&style=flat)](https://httpd.apache.org/)
 [![Twitter Bootstrap Intermediate](https://img.shields.io/badge/Twitter%20Bootstrap-Intermediate-yellowgreen?logo=bootstrap&logoColor=white&style=flat)](https://getbootstrap.com/2.0.2/)
-[![CPanel Intermediate](https://img.shields.io/badge/CPanel-Intermediate-yellowgreen?logo=alpinelinux&logoColor=white&style=flat)]()
+[![CPanel Intermediate](https://img.shields.io/badge/CPanel-Intermediate-yellowgreen?logo=alpinelinux&logoColor=white&style=flat)](https://www.cpanel.com/)
 [![Docker Intermediate](https://img.shields.io/badge/Docker-Intermediate-yellowgreen?logo=docker&logoColor=white&style=flat)](https://docker.io)
 [![Google Fonts Intermediate](https://img.shields.io/badge/Google%20Fonts-Intermediate-yellowgreen?logo=googlefonts&logoColor=white&style=flat)](https://fonts.google.com)
-[![jQuery Intermediate](https://img.shields.io/badge/jQuery-Intermediate-yellowgreen?logo=jquery&logoColor=white&style=flat)]()
-[![Let's Encrypt Intermediate](https://img.shields.io/badge/Let's%20Encrypt-Intermediate-yellowgreen?logo=letsencrypt&logoColor=white&style=flat)]()
-[![Microsoft SQL Server Intermediate](https://img.shields.io/badge/Microsoft%20SQL%20Server-Intermediate-yellowgreen?logo=microsoftsqlserver&logoColor=white&style=flat)]()
-[![NodeJS Intermediate](https://img.shields.io/badge/NodeJS-Intermediate-yellowgreen?logo=nodedotjs&logoColor=white&style=flat)]()
-[![PyTest Intermediate](https://img.shields.io/badge/PyTest-Intermediate-yellowgreen?logo=pytest&logoColor=white&style=flat)]()
-[![SQLite Intermediate](https://img.shields.io/badge/SQLite-Intermediate-yellowgreen?logo=sqlite&logoColor=white&style=flat)]()
-[![EditorConfig Beginner](https://img.shields.io/badge/EditorConfig-Beginner-blue?logo=editorconfig&logoColor=white&style=flat)]()
-[![Flutter Beginner](https://img.shields.io/badge/Flutter-Beginner-blue?logo=flutter&logoColor=white&style=flat)]()
-[![Qt Rusty](https://img.shields.io/badge/Qt-Rusty-darkred?logo=qt&logoColor=white&style=flat)]()
+[![jQuery Intermediate](https://img.shields.io/badge/jQuery-Intermediate-yellowgreen?logo=jquery&logoColor=white&style=flat)](https://jquery.com/)
+[![Let's Encrypt Intermediate](https://img.shields.io/badge/Let's%20Encrypt-Intermediate-yellowgreen?logo=letsencrypt&logoColor=white&style=flat)](https://letsencrypt.org/)
+[![Microsoft SQL Server Intermediate](https://img.shields.io/badge/Microsoft%20SQL%20Server-Intermediate-yellowgreen?logo=microsoftsqlserver&logoColor=white&style=flat)](https://www.microsoft.com/en-us/sql-server/)
+[![NodeJS Intermediate](https://img.shields.io/badge/NodeJS-Intermediate-yellowgreen?logo=nodedotjs&logoColor=white&style=flat)](https://nodejs.org/)
+[![PyTest Intermediate](https://img.shields.io/badge/PyTest-Intermediate-yellowgreen?logo=pytest&logoColor=white&style=flat)](https://pytest.org/)
+[![SQLite Intermediate](https://img.shields.io/badge/SQLite-Intermediate-yellowgreen?logo=sqlite&logoColor=white&style=flat)](https://www.sqlite.org/index.html)
+[![EditorConfig Beginner](https://img.shields.io/badge/EditorConfig-Beginner-blue?logo=editorconfig&logoColor=white&style=flat)](https://editorconfig.org/)
+[![Flutter Beginner](https://img.shields.io/badge/Flutter-Beginner-blue?logo=flutter&logoColor=white&style=flat)](https://flutter.dev/)
+[![Qt Rusty](https://img.shields.io/badge/Qt-Rusty-darkred?logo=qt&logoColor=white&style=flat)](https://www.qt.io/)
 
 ## Platforms ##
 
-[![Windows Proficient](https://img.shields.io/badge/Windows-Proficient-darkgreen?logo=windows&logoColor=white&style=flat)]()
-[![Linux Proficient](https://img.shields.io/badge/Linux-Proficient-darkgreen?logo=linux&logoColor=white&style=flat)]()
-[![Ubuntu Proficient](https://img.shields.io/badge/Ubuntu-Proficient-darkgreen?logo=ubuntu&logoColor=white&style=flat)]()
-[![RaspberryPi Proficient](https://img.shields.io/badge/RaspberryPi-Proficient-darkgreen?logo=raspberrypi&logoColor=white&style=flat)]()
-[![Android Intermediate](https://img.shields.io/badge/Android-Intermediate-yellowgreen?logo=android&logoColor=white&style=flat)]()
+[![Windows Proficient](https://img.shields.io/badge/Windows-Proficient-darkgreen?logo=windows&logoColor=white&style=flat)](https://www.microsoft.com/en-us/windows)
+[![Linux Proficient](https://img.shields.io/badge/Linux-Proficient-darkgreen?logo=linux&logoColor=white&style=flat)](https://www.linux.com/)
+[![Ubuntu Proficient](https://img.shields.io/badge/Ubuntu-Proficient-darkgreen?logo=ubuntu&logoColor=white&style=flat)](https://ubuntu.com/)
+[![RaspberryPi Proficient](https://img.shields.io/badge/RaspberryPi-Proficient-darkgreen?logo=raspberrypi&logoColor=white&style=flat)](https://www.raspberrypi.com/)
+[![Android Intermediate](https://img.shields.io/badge/Android-Intermediate-yellowgreen?logo=android&logoColor=white&style=flat)](https://www.android.com/)
+[![Mac OS Intermediate](https://img.shields.io/badge/Mac%20OS-Intermediate-yellowgreen?logo=macos&logoColor=white&style=flat)](https://www.apple.com/in/macos/monterey/)
 
 ## Software I Use ##
 
-[![Neovim Intermediate](https://img.shields.io/badge/Neovim-Intermediate-yellowgreen?logo=neovim&logoColor=white&style=flat)]()
-[![TMux Proficient](https://img.shields.io/badge/TMux-Proficient-darkgreen?logo=tmux&logoColor=white&style=flat)]()
+[![TMux Proficient](https://img.shields.io/badge/TMux-Proficient-darkgreen?logo=tmux&logoColor=white&style=flat)](https://github.com/tmux/tmux)
+[![VSCode Proficient](https://img.shields.io/badge/VSCode-Proficient-darkgreen?logo=visualstudiocode&logoColor=white&style=flat)](https://code.visualstudio.com)
+[![Neovim Intermediate](https://img.shields.io/badge/Neovim-Intermediate-yellowgreen?logo=neovim&logoColor=white&style=flat)](https://neovim.io/)
 
 
 # My Approach to Programming #
