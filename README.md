@@ -54,14 +54,20 @@ Gino Vincenzini is a programmer, designer, and consultant living in Chester Coun
 
 # I'm Currently Working on #
 
-- Documenting and Refactoring PyPollyanna
+<a href="https://github.com/GinoMan/PyPollyanna">
+<table><tr><td>
+<img alt="MongoDB" width="100" src="/Assets/Icons/python.svg" />
+</td>
+<td rowspan="2">Documenting and Refactoring PyPollyanna</td>
+</tr>
+<tr align="center"><td>PyPollyanna</td></tr></table></a>
 
 # I'm Currently Learning #
 
 <table><tr><td>
 <img alt="MongoDB" width="100" src="/Assets/Icons/mongodb.svg" />
 </td>
-<td rowspan="2">MongoDB is a NoSQL Database that stores information in collections of documents. </td>
+<td rowspan="2">MongoDB is a NoSQL Database that stores information in collections of documents. I plan to use Mongo for my own website.</td>
 </tr>
 <tr align="center"><td>MongoDB</td></tr></table>
 
