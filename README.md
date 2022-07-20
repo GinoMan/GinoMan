@@ -59,7 +59,7 @@ Gino Vincenzini is a programmer, designer, and consultant living in Chester Coun
 # I'm Currently Learning #
 
 <table><tr><td>
-<img alt="MongoDB" width="100" src="/Assets/icons/mongodb.svg" />
+<img alt="MongoDB" width="100" src="/Assets/Icons/mongodb.svg" />
 </td>
 <td rowspan="2">MongoDB is a NoSQL Database that stores information in collections of documents. </td>
 </tr>
