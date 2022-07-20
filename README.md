@@ -64,6 +64,7 @@ Gino Vincenzini is a programmer, designer, and consultant living in Chester Coun
 <td rowspan="2">MongoDB is a NoSQL Database that stores information in collections of documents. </td>
 </tr>
 <tr align="center"><td>MongoDB</td></tr></table>
+
 # Technologies I Know #
 
 ## Programming Languages ##
