@@ -42,8 +42,6 @@ Here are some ideas to get you started:
 
 [![Authorship Badge](./Assets/Badges/Author-Gino%20Vincenzini-brightgreen-badge.png)](https://ginovincenzini.com/)
 
-
-
 # Mission Statement #
 
 
@@ -77,12 +75,29 @@ Gino Vincenzini is a programmer, designer, and consultant living in Chester Coun
 
 ## Programming and Data Languages ##
 
+Programming Languages:
+
 <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/python.svg" alt="Python 3.10" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/php.svg" alt="PHP 7.0" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/javascript.svg" alt="JavaScript" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/cplusplus.svg" alt="C++" /> <img width="50" src="/Assets/Icons/autohotkey.svg" alt="AutoHotKey" /><br />
+
+<!-- Add The following Languages:
+- 
+-->
+
+Document Languages:
+
 <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/html5.svg" alt="HTML5" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/css3.svg" alt="CSS3" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/markdown.svg" alt="Markdown" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/json.svg" alt="JSON" />
+
+<!-- Add The following Languages:
+- 
+-->
 
 ## Dev-Ops ##
 
 <img width="50" src="/Assets/Icons/amazonaws.svg" alt="Amazon AWS" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/git.svg" alt="Git" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/docker.svg" alt="Docker" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/trello.svg" alt="Trello" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/github.svg" alt="Github" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/opensource.svg" alt="Open Source Initiative" />
+
+<!-- Add The following Technologies:
+- 
+-->
 
 ## Frameworks and Packages ##
 
