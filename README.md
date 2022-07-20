@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 # Table of Contents #
 
-- [Badges](#badges)
+- [Badges](#badge)
 - [Mission Statement](#mission-statement)
 - [Bio](#bio)
 - [Currently Working On](#im-currently-working-on)
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 	- [UI Design](#ui-design)
 - [Fun Facts](#fun-facts-about-ginoman)
 
-# Badges #
+# Badge #
 
 [![Authorship Badge](./Assets/Badges/Author-Gino%20Vincenzini-brightgreen-badge.png)](https://ginovincenzini.com/)
 
@@ -50,7 +50,9 @@ Here are some ideas to get you started:
 
 # Bio #
 
-Gino Vincenzini is a programmer, designer, and consultant living in Chester County Pennsylvania with his wife, one son, and cat.
+Gino Vincenzini is a programmer, designer, and consultant living in Chester County Pennsylvania with his wife Marcela, son Ethan, and their cat Charlie. He often spends his free time programming or helping others learn programming.
+
+> First, solve the problem. Then, write the code. - John Johnson
 
 # I'm Currently Working on #
 
@@ -58,7 +60,7 @@ Gino Vincenzini is a programmer, designer, and consultant living in Chester Coun
 <table><tr><td>
 <img alt="MongoDB" width="100" src="/Assets/Icons/python.svg" />
 </td>
-<td rowspan="2">Documenting and Refactoring PyPollyanna</td>
+<td rowspan="2">Documenting and Refactoring PyPollyanna<br/>He's currently writing the documentation for the code and there is a whole roadmap of features which need to be implemented.</td>
 </tr>
 <tr align="center"><td>PyPollyanna</td></tr></table></a>
 
@@ -73,13 +75,69 @@ Gino Vincenzini is a programmer, designer, and consultant living in Chester Coun
 
 # Technologies I Know #
 
-## Programming Languages ##
+## Programming and Data Languages ##
 
-
+<img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/python.svg" alt="Python 3.10" />
+<img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/php.svg" alt="PHP 7.0" />
+<img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/javascript.svg" alt="JavaScript" />
+<img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/cplusplus.svg" alt="C++" />
+<img width="50" src="/Assets/Icons/autohotkey.svg" alt="AutoHotKey" /><br />
+<img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/html5.svg" alt="HTML5" />
+<img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/css3.svg" alt="CSS3" />
+<img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/markdown.svg" alt="Markdown" />
+<img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/json.svg" alt="JSON" />
 
 ## Dev-Ops ##
 
+<img width="50" src="/Assets/Icons/amazonaws.svg" alt="Amazon AWS" />
+<img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/git.svg" alt="Git" />
+<img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/docker.svg" alt="Docker" />
+<img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/trello.svg" alt="Trello" />
+<img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/github.svg" alt="Github" />
+<img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/opensource.svg" alt="Open Source Initiative" />
+
 ## Frameworks and Packages ##
+
+[![MongoDB Learning](https://img.shields.io/badge/MongoDB-Learning-orange?logo=mongodb&logoColor=white&style=flat)]()
+[![.NET Proficient](https://img.shields.io/badge/.NET-Proficient-darkgreen?logo=dotnet&logoColor=white&style=flat)](https://dotnet.microsoft.com/en-us/)
+[![Chocolatey Proficient](https://img.shields.io/badge/Chocolatey-Proficient-darkgreen?logo=chocolatey&logoColor=white&style=flat)](https://community.chocolatey.org/)
+[![Flask Proficient](https://img.shields.io/badge/Flask-Proficient-darkgreen?logo=flask&logoColor=white&style=flat)]()
+[![Font Awesome Proficient](https://img.shields.io/badge/Font%20Awesome-Proficient-darkgreen?logo=fontawesome&logoColor=white&style=flat)]()
+[![Jinja2 Proficient](https://img.shields.io/badge/Jinja2-Proficient-darkgreen?logo=jinja&logoColor=white&style=flat)]()
+[![Replit Proficient](https://img.shields.io/badge/Replit-Proficient-darkgreen?logo=replit&logoColor=white&style=flat)]()
+[![Scratch Proficient](https://img.shields.io/badge/Scratch-Proficient-darkgreen?logo=scratch&logoColor=white&style=flat)]()
+[![Solid Proficient](https://img.shields.io/badge/Solid-Proficient-darkgreen?logo=solid&logoColor=white&style=flat)]()
+[![Unity3D Proficient](https://img.shields.io/badge/Unity3D-Proficient-darkgreen?logo=unity&logoColor=white&style=flat)]()
+[![Unsplash Proficient](https://img.shields.io/badge/Unsplash-Proficient-darkgreen?logo=unsplash&logoColor=white&style=flat)]()
+[![Wordpress Proficient](https://img.shields.io/badge/Wordpress-Proficient-darkgreen?logo=wordpress&logoColor=white&style=flat)]()
+[![Apache Intermediate](https://img.shields.io/badge/Apache%20HTTPd-Intermediate-yellowgreen?logo=apache&logoColor=white&style=flat)](https://httpd.apache.org/)
+[![Twitter Bootstrap Intermediate](https://img.shields.io/badge/Twitter%20Bootstrap-Intermediate-yellowgreen?logo=bootstrap&logoColor=white&style=flat)](https://getbootstrap.com/2.0.2/)
+[![CPanel Intermediate](https://img.shields.io/badge/CPanel-Intermediate-yellowgreen?logo=alpinelinux&logoColor=white&style=flat)]()
+[![Docker Intermediate](https://img.shields.io/badge/Docker-Intermediate-yellowgreen?logo=docker&logoColor=white&style=flat)](https://docker.io)
+[![Google Fonts Intermediate](https://img.shields.io/badge/Google%20Fonts-Intermediate-yellowgreen?logo=googlefonts&logoColor=white&style=flat)](https://fonts.google.com)
+[![jQuery Intermediate](https://img.shields.io/badge/jQuery-Intermediate-yellowgreen?logo=jquery&logoColor=white&style=flat)]()
+[![Let's Encrypt Intermediate](https://img.shields.io/badge/Let's%20Encrypt-Intermediate-yellowgreen?logo=letsencrypt&logoColor=white&style=flat)]()
+[![Microsoft SQL Server Intermediate](https://img.shields.io/badge/Microsoft%20SQL%20Server-Intermediate-yellowgreen?logo=microsoftsqlserver&logoColor=white&style=flat)]()
+[![NodeJS Intermediate](https://img.shields.io/badge/NodeJS-Intermediate-yellowgreen?logo=nodedotjs&logoColor=white&style=flat)]()
+[![PyTest Intermediate](https://img.shields.io/badge/PyTest-Intermediate-yellowgreen?logo=pytest&logoColor=white&style=flat)]()
+[![SQLite Intermediate](https://img.shields.io/badge/SQLite-Intermediate-yellowgreen?logo=sqlite&logoColor=white&style=flat)]()
+[![EditorConfig Beginner](https://img.shields.io/badge/EditorConfig-Beginner-blue?logo=editorconfig&logoColor=white&style=flat)]()
+[![Flutter Beginner](https://img.shields.io/badge/Flutter-Beginner-blue?logo=flutter&logoColor=white&style=flat)]()
+[![Qt Rusty](https://img.shields.io/badge/Qt-Rusty-darkred?logo=qt&logoColor=white&style=flat)]()
+
+## Platforms ##
+
+[![Windows Proficient](https://img.shields.io/badge/Windows-Proficient-darkgreen?logo=windows&logoColor=white&style=flat)]()
+[![Linux Proficient](https://img.shields.io/badge/Linux-Proficient-darkgreen?logo=linux&logoColor=white&style=flat)]()
+[![Ubuntu Proficient](https://img.shields.io/badge/Ubuntu-Proficient-darkgreen?logo=ubuntu&logoColor=white&style=flat)]()
+[![RaspberryPi Proficient](https://img.shields.io/badge/RaspberryPi-Proficient-darkgreen?logo=raspberrypi&logoColor=white&style=flat)]()
+[![Android Intermediate](https://img.shields.io/badge/Android-Intermediate-yellowgreen?logo=android&logoColor=white&style=flat)]()
+
+## Software I Use ##
+
+[![Neovim Intermediate](https://img.shields.io/badge/Neovim-Intermediate-yellowgreen?logo=neovim&logoColor=white&style=flat)]()
+[![TMux Proficient](https://img.shields.io/badge/TMux-Proficient-darkgreen?logo=tmux&logoColor=white&style=flat)]()
+
 
 # My Approach to Programming #
 
@@ -166,8 +224,6 @@ I created these banners to help my church advertise their small groups on social
 ### Billable Call Recorder ###
 
 This UI was built to log phone calls and the machines they were associated with for billing purposes.
-
-<!-- <img style="margin-left: 25%; margin-right: 25%; width: 50%" alt="Call Recorder UI Mockup" src="/Assets/UIs/2020-10-15%2021_47_35-Support%20Call%20Logger.png" /> -->
 
 <div align="center">
 <img alt="Call Recorder UI Mockup" src="/Assets/UIs/2020-10-15%2021_47_35-Support%20Call%20Logger.png" />
