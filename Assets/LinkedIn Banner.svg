@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1584"
+   height="396"
+   viewBox="0 0 419.1 104.775"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="LinkedIn Banner.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1838">Banner</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.75455247"
+     inkscape:cx="793.1854"
+     inkscape:cy="243.85315"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0,104.775"
+       orientation="0,1584"
+       id="guide1100"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="419.1,104.775"
+       orientation="396,0"
+       id="guide1102"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="419.1,0"
+       orientation="0,-1584"
+       id="guide1104"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-396,0"
+       id="guide1106"
+       inkscape:locked="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid1108"
+       dotted="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="3.9758667"
+       y="9.2770222"
+       width="723.60773"
+       height="102.04724"
+       id="rect4784" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4000">
+      <stop
+         style="stop-color:#49009d;stop-opacity:1;"
+         offset="0.19935691"
+         id="stop3996" />
+      <stop
+         style="stop-color:#da0000;stop-opacity:1;"
+         offset="0.89389074"
+         id="stop3998" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4000"
+       id="linearGradient4002"
+       x1="222.31169"
+       y1="107.64935"
+       x2="222.66232"
+       y2="-0.70129955"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient4002);stroke-width:0.264583;fill-opacity:1"
+       id="rect3971"
+       width="420.42856"
+       height="105.8961"
+       x="-0.35064936"
+       y="-0.35064936"
+       ry="0.74216998" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,3.8571429,2.4545455)"
+       id="text4782"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;font-family:Futura;-inkscape-font-specification:'Futura Bold Oblique';white-space:pre;shape-inside:url(#rect4784);fill:#ffffff;fill-opacity:1"><tspan
+         x="3.9765625"
+         y="66.190788"
+         id="tspan5069">Gino Vincenzini</tspan></text>
+  </g>
+  <metadata
+     id="metadata1836">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Banner</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Gino Vincenzini</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

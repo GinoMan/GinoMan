@@ -44,6 +44,86 @@ Here are some ideas to get you started:
 
 # Mission Statement #
 
+<!-- 
+## Mission Statement Ideas ##
+From:
+
+https://www.indeed.com/career-advice/resumes-cover-letters/write-mission-statement
+https://www.indeed.com/career-advice/career-development/core-values
+
+- The Great Commission - "All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you."
+- Isaiah 9 - For to us a child is born, to us a son is given; and the government shall be upon his shoulder, and his name shall be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace. Of the increase of his government and of peace there will be no end, on the throne of David and over his kingdom, to establish it and to uphold it with justice and with righteousness from this time forth and forevermore. The zeal of the Lord of hosts will do this.
+
+## What are your values? ##
+- Integrity
+- Flexibility
+- Balance
+- Boldness
+- Bravery
+- Creativity
+- Curiosity
+- Dependability
+- Family
+- Justice
+- Honesty
+- Humility
+- Impact
+- Ingenuity
+- Kindness
+- Knowledge
+- Learning
+- Loyalty
+- Optimism
+- Ownership
+- Patience
+- Peace
+- Power
+- Quality
+- Relationship
+- Responsibility
+- Simplicity
+- Spirituality
+- Stability
+- Sustainability
+- Tenacity
+- Trustworthiness
+- Wisdom
+
+### What kind of culture do you want to work in? ###
+- Service
+- Work-Life Balance
+- Respect
+- Honor
+- Humor
+
+### What Environment, Settings, or Resources are needed for best work? ###
+- Work-Life Balance
+
+
+### What qualities do you feel make strong healthy relationships? ###
+
+### What qualities do you most admire in role models? ###
+
+### What motivates you? ###
+
+### What qualities do you wish to develop in yourself? ###
+
+### What are your future goals and what qualities will be needed to attain them? ###
+- Proclamation
+- Dominion
+- Theonomy
+
+
+
+## Personal Interests ##
+
+## Strengths ##
+
+## Goals ##
+
+## Actions to take ##
+
+-->
 
 # Bio #
 
@@ -78,11 +158,14 @@ Gino Vincenzini is a programmer, designer, and consultant living in Chester Coun
 
 Programming Languages:
 
-<img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/python.svg" alt="Python 3.10" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/php.svg" alt="PHP 7.0" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/javascript.svg" alt="JavaScript" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/cplusplus.svg" alt="C++" /> <img width="50" src="/Assets/Icons/autohotkey.svg" alt="AutoHotKey" /><br />
+<img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/python.svg" alt="Python 3.10" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/php.svg" alt="PHP 7.0" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/javascript.svg" alt="JavaScript" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/typescript.svg" alt="TypeScript" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/cplusplus.svg" alt="C++" /> <img width="50" src="/Assets/Icons/autohotkey.svg" alt="AutoHotKey" /> <img width="50" src="/Assets/Icons/Bash_icon.svg" alt="Bash" /> <img width="50" src="/Assets/Icons/batch.svg" alt="Batch Script" /><br />
 
 <!-- Add The following Languages:
-- C Programming Language
-- 
+- C Programming Language 	c.svg
+- C Sharp					csharp.svg
+- Lua						lua.svg
+- Powershell Scripting		powershell.svg
+- Scratch 					scratch.svg
 [![Scratch Proficient](https://img.shields.io/badge/Scratch-Proficient-darkgreen?logo=scratch&logoColor=white&style=flat)](https://scratch.mit.edu/)
 -->
 
@@ -91,7 +174,12 @@ Document Languages:
 <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/html5.svg" alt="HTML5" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/css3.svg" alt="CSS3" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/markdown.svg" alt="Markdown" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/json.svg" alt="JSON" />
 
 <!-- Add The following Languages:
-- 
+- CSV						
+- Dockerfile				
+- Docker-compose.yaml		
+- INI/CONF 					
+- XML						
+- YAML						
 -->
 
 ## Dev-Ops ##
@@ -108,8 +196,8 @@ Document Languages:
 [![.NET Proficient](https://img.shields.io/badge/.NET-Proficient-darkgreen?logo=dotnet&logoColor=white&style=flat)](https://dotnet.microsoft.com/en-us/)
 [![Chocolatey Proficient](https://img.shields.io/badge/Chocolatey-Proficient-darkgreen?logo=chocolatey&logoColor=white&style=flat)](https://community.chocolatey.org/)
 [![Flask Proficient](https://img.shields.io/badge/Flask-Proficient-darkgreen?logo=flask&logoColor=white&style=flat)](https://flask.palletsprojects.com)
-[![Font Awesome Proficient](https://img.shields.io/badge/Font%20Awesome-Proficient-darkgreen?logo=fontawesome&logoColor=white&style=flat)](https://fontawesome.com/)
 [![Jinja2 Proficient](https://img.shields.io/badge/Jinja2-Proficient-darkgreen?logo=jinja&logoColor=white&style=flat)](https://jinja.palletsprojects.com)
+[![Font Awesome Proficient](https://img.shields.io/badge/Font%20Awesome-Proficient-darkgreen?logo=fontawesome&logoColor=white&style=flat)](https://fontawesome.com/)
 [![Replit Proficient](https://img.shields.io/badge/Replit-Proficient-darkgreen?logo=replit&logoColor=white&style=flat)](https://replit.com/@GinoMan)
 [![Unity3D Proficient](https://img.shields.io/badge/Unity3D-Proficient-darkgreen?logo=unity&logoColor=white&style=flat)](https://unity.com/)
 [![Unsplash Proficient](https://img.shields.io/badge/Unsplash-Proficient-darkgreen?logo=unsplash&logoColor=white&style=flat)](https://unsplash.com/)
