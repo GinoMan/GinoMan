@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512.0px"
+   height="512.0px"
+   viewBox="0 0 512.0 512.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="XML.svg"
+   inkscape:export-filename="XML_badge.svg"
+   inkscape:export-xdpi="96.169365"
+   inkscape:export-ydpi="96.169365"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6700"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="0.78127806"
+     inkscape:cx="137.59506"
+     inkscape:cy="305.90901"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7186" />
+  </sodipodi:namedview>
+  <defs
+     id="defs6695">
+    <rect
+       x="85.076032"
+       y="-211.78502"
+       width="62.90196"
+       height="111.54916"
+       id="rect7684" />
+    <rect
+       x="153.86091"
+       y="-253.41797"
+       width="447.1017"
+       height="193.68373"
+       id="rect7678" />
+    <rect
+       x="92.15669"
+       y="46.078345"
+       width="117.75576"
+       height="71.677426"
+       id="rect7618" />
+    <rect
+       x="80.637104"
+       y="172.79379"
+       width="364.7869"
+       height="117.75578"
+       id="rect7247" />
+    <rect
+       x="85.076032"
+       y="-211.78502"
+       width="62.90196"
+       height="111.54916"
+       id="rect7828" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#6368d7;fill-opacity:1;stroke:#000000;stroke-width:20.876;stroke-opacity:1"
+       id="rect7457"
+       width="490.22235"
+       height="490.22229"
+       x="11.519588"
+       y="11.519588"
+       ry="49.278229" />
+    <g
+       id="g7832"
+       transform="matrix(1.957532,0,0,1.957532,-32.354171,401.04841)"
+       style="display:inline;fill:#11d0ff;fill-opacity:0.377163">
+      <text
+         xml:space="preserve"
+         id="text7682"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:96px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold';white-space:pre;shape-inside:url(#rect7684);fill:#11d0ff;fill-opacity:0.377163;stroke:none;stroke-width:20.876;stroke-opacity:1"
+         transform="matrix(1.3489393,0,0,2.8361021,-32.074238,345.35767)"><tspan
+           x="85.076172"
+           y="-127.78516"
+           id="tspan7907">&lt;</tspan></text>
+      <text
+         xml:space="preserve"
+         id="text7826"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:96px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold';white-space:pre;shape-inside:url(#rect7828);fill:#11d0ff;fill-opacity:0.377163;stroke:none;stroke-width:20.876;stroke-opacity:1"
+         transform="matrix(-1.3489393,0,0,2.8361021,323.75293,409.16469)"><tspan
+           x="85.076172"
+           y="-127.78516"
+           id="tspan7909">&lt;</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       id="text7245"
+       style="font-weight:bold;font-size:96px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code Bold';white-space:pre;shape-inside:url(#rect7247);shape-padding:3.83986;fill:#05009a;fill-opacity:1;stroke-width:1.70933552;stroke:none;stroke-opacity:1;stroke-dasharray:none"
+       transform="matrix(1.3455521,0,0,1.3455521,-94.273456,-55.37777)"><tspan
+         x="84.476562"
+         y="260.63281"
+         id="tspan7911">&lt;XML/&gt;</tspan></text>
+  </g>
+</svg>

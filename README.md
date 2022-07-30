@@ -40,10 +40,11 @@ Here are some ideas to get you started:
 
 # Badge #
 
-[![Authorship Badge](./Assets/Badges/Author-Gino%20Vincenzini-brightgreen-badge.png)](https://ginovincenzini.com/)
+[![Authorship Badge](/Assets/Badges/Author-Gino%20Vincenzini-brightgreen-badge.png)](https://ginovincenzini.com/)
 
 # Mission Statement #
 
+Coming Soon...
 <!-- 
 ## Mission Statement Ideas ##
 From:
@@ -131,6 +132,8 @@ Gino Vincenzini is a programmer, designer, and consultant living in Chester Coun
 
 > First, solve the problem. Then, write the code. - John Johnson
 
+More to come later...
+
 # I'm Currently Working on #
 
 <a href="https://github.com/GinoMan/PyPollyanna">
@@ -158,33 +161,19 @@ Gino Vincenzini is a programmer, designer, and consultant living in Chester Coun
 
 Programming Languages:
 
-<img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/python.svg" alt="Python 3.10" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/php.svg" alt="PHP 7.0" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/javascript.svg" alt="JavaScript" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/typescript.svg" alt="TypeScript" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/cplusplus.svg" alt="C++" /> <img width="50" src="/Assets/Icons/autohotkey.svg" alt="AutoHotKey" /> <img width="50" src="/Assets/Icons/Bash_icon.svg" alt="Bash" /> <img width="50" src="/Assets/Icons/batch.svg" alt="Batch Script" /><br />
-
-<!-- Add The following Languages:
-- C Programming Language 	c.svg
-- C Sharp					csharp.svg
-- Lua						lua.svg
-- Powershell Scripting		powershell.svg
-- Scratch 					scratch.svg
-[![Scratch Proficient](https://img.shields.io/badge/Scratch-Proficient-darkgreen?logo=scratch&logoColor=white&style=flat)](https://scratch.mit.edu/)
--->
+<img width="50" src="/Assets/Icons/c_badge.svg" alt="C" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/cplusplus.svg" alt="C++" /> <img width="50" src="/Assets/Icons/C-Sharp.svg" alt="C#" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/python.svg" alt="Python 3.10" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/php.svg" alt="PHP 7.0" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/javascript.svg" alt="JavaScript" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/typescript.svg" alt="TypeScript" /> <img width="50" src="/Assets/Icons/lua.svg" alt="Lua" /> <img width="50" src="/Assets/Icons/scratch.svg" alt="Scratch" /> <img width="50" src="/Assets/Icons/powershell.svg" alt="Powershell" /> <img width="50" src="/Assets/Icons/bash.svg" alt="Bash" /> <img width="50" src="/Assets/Icons/batch.svg" alt="Batch Script" /> <img width="50" src="/Assets/Icons/autohotkey.svg" alt="AutoHotKey" /> <br />
 
 Document Languages:
 
-<img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/html5.svg" alt="HTML5" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/css3.svg" alt="CSS3" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/markdown.svg" alt="Markdown" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/json.svg" alt="JSON" />
-
-<!-- Add The following Languages:
-- CSV						
-- Dockerfile				
-- Docker-compose.yaml		
-- INI/CONF 					
-- XML						
-- YAML						
--->
+<img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/html5.svg" alt="HTML5" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/css3.svg" alt="CSS3" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/markdown.svg" alt="Markdown" /> <img width="50" src="/Assets/Icons/CSV_badge.svg" alt="CSV" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/json.svg" alt="JSON" /> <img width="50" src="/Assets/Icons/XML_badge.svg" alt="XML" />
+<!-- <img width="50" src="/Assets/Icons/dockerfile.svg" alt="Dockerfile" />
+<img width="50" src="/Assets/Icons/docker-compose.svg" alt="Docker-Compose" /> -->
+<!-- <img width="50" src="/Assets/Icons/ini.svg" alt="[INI]" /> -->
+<!-- <img width="50" src="/Assets/Icons/yaml.svg" alt="YAML" /> -->
 
 ## Dev-Ops ##
 
-<img width="50" src="/Assets/Icons/amazonaws.svg" alt="Amazon AWS" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/git.svg" alt="Git" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/docker.svg" alt="Docker" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/trello.svg" alt="Trello" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/github.svg" alt="Github" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/opensource.svg" alt="Open Source Initiative" />
+<img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/git.svg" alt="Git" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/github.svg" alt="Github" /> <img width="50" src="/Assets/Icons/amazonaws.svg" alt="Amazon AWS" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/docker.svg" alt="Docker" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/trello.svg" alt="Trello" /> 
 
 <!-- Add The following Technologies:
 - 
@@ -192,7 +181,7 @@ Document Languages:
 
 ## Frameworks and Packages ##
 
-[![MongoDB Learning](https://img.shields.io/badge/MongoDB-Learning-orange?logo=mongodb&logoColor=white&style=flat)](https://www.mongodb.com)
+[![MongoDB Learning](https://img.shields.io/badge/MongoDB-Learning-orange?logo=mongodb&logoColor=white&style=flat)](https://www.mongodb.com)<br/>
 [![.NET Proficient](https://img.shields.io/badge/.NET-Proficient-darkgreen?logo=dotnet&logoColor=white&style=flat)](https://dotnet.microsoft.com/en-us/)
 [![Chocolatey Proficient](https://img.shields.io/badge/Chocolatey-Proficient-darkgreen?logo=chocolatey&logoColor=white&style=flat)](https://community.chocolatey.org/)
 [![Flask Proficient](https://img.shields.io/badge/Flask-Proficient-darkgreen?logo=flask&logoColor=white&style=flat)](https://flask.palletsprojects.com)
@@ -201,7 +190,7 @@ Document Languages:
 [![Replit Proficient](https://img.shields.io/badge/Replit-Proficient-darkgreen?logo=replit&logoColor=white&style=flat)](https://replit.com/@GinoMan)
 [![Unity3D Proficient](https://img.shields.io/badge/Unity3D-Proficient-darkgreen?logo=unity&logoColor=white&style=flat)](https://unity.com/)
 [![Unsplash Proficient](https://img.shields.io/badge/Unsplash-Proficient-darkgreen?logo=unsplash&logoColor=white&style=flat)](https://unsplash.com/)
-[![Wordpress Proficient](https://img.shields.io/badge/Wordpress-Proficient-darkgreen?logo=wordpress&logoColor=white&style=flat)](https://wordpress.org/)
+[![Wordpress Proficient](https://img.shields.io/badge/Wordpress-Proficient-darkgreen?logo=wordpress&logoColor=white&style=flat)](https://wordpress.org/)<br/>
 [![Apache Intermediate](https://img.shields.io/badge/Apache%20HTTPd-Intermediate-yellowgreen?logo=apache&logoColor=white&style=flat)](https://httpd.apache.org/)
 [![Twitter Bootstrap Intermediate](https://img.shields.io/badge/Twitter%20Bootstrap-Intermediate-yellowgreen?logo=bootstrap&logoColor=white&style=flat)](https://getbootstrap.com/2.0.2/)
 [![CPanel Intermediate](https://img.shields.io/badge/CPanel-Intermediate-yellowgreen?logo=alpinelinux&logoColor=white&style=flat)](https://www.cpanel.com/)
@@ -212,9 +201,9 @@ Document Languages:
 [![Microsoft SQL Server Intermediate](https://img.shields.io/badge/Microsoft%20SQL%20Server-Intermediate-yellowgreen?logo=microsoftsqlserver&logoColor=white&style=flat)](https://www.microsoft.com/en-us/sql-server/)
 [![NodeJS Intermediate](https://img.shields.io/badge/NodeJS-Intermediate-yellowgreen?logo=nodedotjs&logoColor=white&style=flat)](https://nodejs.org/)
 [![PyTest Intermediate](https://img.shields.io/badge/PyTest-Intermediate-yellowgreen?logo=pytest&logoColor=white&style=flat)](https://pytest.org/)
-[![SQLite Intermediate](https://img.shields.io/badge/SQLite-Intermediate-yellowgreen?logo=sqlite&logoColor=white&style=flat)](https://www.sqlite.org/index.html)
+[![SQLite Intermediate](https://img.shields.io/badge/SQLite-Intermediate-yellowgreen?logo=sqlite&logoColor=white&style=flat)](https://www.sqlite.org/index.html)<br/>
 [![EditorConfig Beginner](https://img.shields.io/badge/EditorConfig-Beginner-blue?logo=editorconfig&logoColor=white&style=flat)](https://editorconfig.org/)
-[![Flutter Beginner](https://img.shields.io/badge/Flutter-Beginner-blue?logo=flutter&logoColor=white&style=flat)](https://flutter.dev/)
+[![Flutter Beginner](https://img.shields.io/badge/Flutter-Beginner-blue?logo=flutter&logoColor=white&style=flat)](https://flutter.dev/)<br/>
 [![Qt Rusty](https://img.shields.io/badge/Qt-Rusty-darkred?logo=qt&logoColor=white&style=flat)](https://www.qt.io/)
 
 ## Platforms ##
@@ -222,14 +211,14 @@ Document Languages:
 [![Windows Proficient](https://img.shields.io/badge/Windows-Proficient-darkgreen?logo=windows&logoColor=white&style=flat)](https://www.microsoft.com/en-us/windows)
 [![Linux Proficient](https://img.shields.io/badge/Linux-Proficient-darkgreen?logo=linux&logoColor=white&style=flat)](https://www.linux.com/)
 [![Ubuntu Proficient](https://img.shields.io/badge/Ubuntu-Proficient-darkgreen?logo=ubuntu&logoColor=white&style=flat)](https://ubuntu.com/)
-[![RaspberryPi Proficient](https://img.shields.io/badge/RaspberryPi-Proficient-darkgreen?logo=raspberrypi&logoColor=white&style=flat)](https://www.raspberrypi.com/)
+[![RaspberryPi Proficient](https://img.shields.io/badge/RaspberryPi-Proficient-darkgreen?logo=raspberrypi&logoColor=white&style=flat)](https://www.raspberrypi.com/)<br/>
 [![Android Intermediate](https://img.shields.io/badge/Android-Intermediate-yellowgreen?logo=android&logoColor=white&style=flat)](https://www.android.com/)
 [![Mac OS Intermediate](https://img.shields.io/badge/Mac%20OS-Intermediate-yellowgreen?logo=macos&logoColor=white&style=flat)](https://www.apple.com/in/macos/monterey/)
 
 ## Software I Use ##
 
 [![TMux Proficient](https://img.shields.io/badge/TMux-Proficient-darkgreen?logo=tmux&logoColor=white&style=flat)](https://github.com/tmux/tmux)
-[![VSCode Proficient](https://img.shields.io/badge/VSCode-Proficient-darkgreen?logo=visualstudiocode&logoColor=white&style=flat)](https://code.visualstudio.com)
+[![VSCode Proficient](https://img.shields.io/badge/VSCode-Proficient-darkgreen?logo=visualstudiocode&logoColor=white&style=flat)](https://code.visualstudio.com)<br/>
 [![Neovim Intermediate](https://img.shields.io/badge/Neovim-Intermediate-yellowgreen?logo=neovim&logoColor=white&style=flat)](https://neovim.io/)
 
 
