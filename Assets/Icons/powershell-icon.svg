@@ -4,20 +4,49 @@
    viewBox="0 0 512 512"
    version="1.1"
    id="svg6057"
+   sodipodi:docname="powershell.svg"
    width="512"
    height="512"
+   inkscape:export-filename="powershell.svg"
+   inkscape:export-xdpi="2047.74"
+   inkscape:export-ydpi="2047.74"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
-     id="defs6061" />
+     id="defs6061">
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#path6055,0,1"
+       id="path-effect6138"
+       is_visible="true"
+       lpeversion="0"
+       join="true"
+       close="true"
+       autoreverse="true" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview6059"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false" />
   <title
      id="title6053">PowerShell</title>
   <g
      id="g6351">
     <path
+       inkscape:original-d="M 0,0"
+       inkscape:path-effect="#path-effect6138"
        d="m 494.52408,63.4485 c 12.11713,0 19.69034,9.87717 16.89572,22.07964 l -78.05738,340.94372 c -2.77329,12.20247 -14.86909,22.07964 -26.98623,22.07964 H 17.47592 c -12.11713,0 -19.69034,-9.87717 -16.89572,-22.07964 L 78.63758,85.52814 C 81.41087,73.32567 93.50667,63.4485 105.62381,63.4485 Z"
        id="path6140"
        class="UnoptimicedTransforms"

@@ -4,8 +4,15 @@
    viewBox="0 0 10922.667 10921.301"
    version="1.1"
    id="svg6"
+   sodipodi:docname="lua-icon.svg"
+   inkscape:export-filename="lua.svg"
+   inkscape:export-xdpi="2047.74"
+   inkscape:export-ydpi="2047.74"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    width="512"
    height="511.936"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -13,6 +20,25 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="1.1028646"
+     inkscape:cx="291.06021"
+     inkscape:cy="294.68713"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
   <title
      id="title2">Lua</title>
   <g
