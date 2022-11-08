@@ -36,9 +36,10 @@ Here are some ideas to get you started:
 	- [Grids](#grids)
 	- [Social Media Banners](#social-media-banners)
 	- [UI Design](#ui-design)
+	- [Diagrams](#diagrams)
 - [Fun Facts](#fun-facts-about-ginoman)
 
-# Badge #
+# Authorship Badge #
 
 [![Authorship Badge](/Assets/Badges/Author-Gino%20Vincenzini-brightgreen-badge.png)](https://ginovincenzini.com/)
 
@@ -100,7 +101,6 @@ https://www.indeed.com/career-advice/career-development/core-values
 ### What Environment, Settings, or Resources are needed for best work? ###
 - Work-Life Balance
 
-
 ### What qualities do you feel make strong healthy relationships? ###
 
 ### What qualities do you most admire in role models? ###
@@ -128,9 +128,11 @@ https://www.indeed.com/career-advice/career-development/core-values
 
 # Bio #
 
-Gino Vincenzini is a programmer, designer, and consultant living in Chester County Pennsylvania with his wife Marcela, son Ethan, and their cat Charlie. He often spends his free time programming or helping others learn programming.
+Gino Vincenzini is a programmer, designer, technology consultant, and ABA behavior tech living in Chester County Pennsylvania with his son Ethan. He often spends his free time programming or helping others learn programming, playing with his son, reading books and webcomics, or playing video and tabletop games. 
 
-> First, solve the problem. Then, write the code. - John Johnson
+<blockquote>
+	First, solve the problem. Then, write the code. - John Johnson
+</blockquote>
 
 More to come later...
 
@@ -155,15 +157,49 @@ More to come later...
 <tr align="center"><td>MongoDB</td></tr></table>
 </a>
 
+# Ask me about #
+
+Technology Consulting. I can provide the knowledge and the technology to take your business to the next level and drive conversions to you through internet marketing and online presence. Having a website is great and if you don't have one, you should, but it's not very helpful if people cannot find your business when they search "your product near me". It's even less helpful if that site doesn't set them up to make a purchase (whether that's scheduling your time for a service, or buying a product you offer in store to be shipped to them).
+
+And that's just one side of the equation. The other side is setting yourself up for success by implementing technologies that streamlines your operations so that you can reduce overhead costs and customer disappointments. 
+
+All of these things however are at your fingertips with me to enrich your business and make the long term cost more than worth it. I provide...
+
+- Your very own professional domain name
+- A wordpress website set up to drive conversions for your business while empowering you to make your own content as you wish, including hosting, developing, and ongoing updates.
+- Professional email systems that are unique for your business and establish an online identity
+- Social Media marketing that drives people to you and not your competitors
+- Search Engine Optimization that increases the likelihood that prospective customers will find you first.
+- Copywriting that compels people to buy from you
+- Bespoke technology services that streamline your business
+- Software Integrations
+- Graphic design that makes you stand out from the crowd
+- Clear and concise documentation that educates users effectively to receive the most value out of your products or services
+- Custom made software tools that streamline internal processes
+- Ongoing support on a subscription basis.
+
 # Technologies I Know #
 
 ## Programming and Data Languages ##
 
-Programming Languages:
+### Programming Languages: ###
 
-<img width="50" src="/Assets/Icons/c_badge.svg" alt="C" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/cplusplus.svg" alt="C++" /> <img width="50" src="/Assets/Icons/C-Sharp.svg" alt="C#" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/python.svg" alt="Python 3.10" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/php.svg" alt="PHP 7.0" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/javascript.svg" alt="JavaScript" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/typescript.svg" alt="TypeScript" /> <img width="50" src="/Assets/Icons/lua-icon.svg" alt="Lua" /> <img width="50" src="/Assets/Icons/scratch-icon.svg" alt="Scratch" /> <img width="50" src="/Assets/Icons/powershell-icon.svg" alt="Powershell" /> <img width="50" src="/Assets/Icons/bash.svg" alt="Bash" /> <img width="50" src="/Assets/Icons/batch.svg" alt="Batch Script" /> <img width="50" src="/Assets/Icons/autohotkey.svg" alt="AutoHotKey" /> <br />
+<a href=""><img width="50" src="/Assets/Icons/c_badge.svg" alt="C" /></a>
+<a href=""><img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/cplusplus.svg" alt="C++" /></a>
+<a href=""><img width="50" src="/Assets/Icons/C-Sharp.svg" alt="C#" /></a>
+<a href=""><img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/python.svg" alt="Python 3.10" /></a>
+<a href=""><img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/php.svg" alt="PHP 7.0" /></a>
+<a href=""><img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/javascript.svg" alt="JavaScript" /></a>
+<a href=""><img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/typescript.svg" alt="TypeScript" /></a>
+<a href=""><img width="50" src="/Assets/Icons/lua-icon.svg" alt="Lua" /></a>
+<a href=""><img width="50" src="/Assets/Icons/scratch-icon.svg" alt="Scratch" /></a>
+<a href=""><img width="50" src="/Assets/Icons/powershell-icon.svg" alt="Powershell" /></a>
+<a href=""><img width="50" src="/Assets/Icons/bash.svg" alt="Bash" /></a>
+<a href=""><img width="50" src="/Assets/Icons/batch.svg" alt="Batch Script" /></a>
+<a href=""><img width="50" src="/Assets/Icons/autohotkey.svg" alt="AutoHotKey" /></a>
+<br />
 
-Document Languages:
+### Document Languages: ###
 
 <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/html5.svg" alt="HTML5" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/css3.svg" alt="CSS3" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/markdown.svg" alt="Markdown" /> <img width="50" src="/Assets/Icons/CSV_badge.svg" alt="CSV" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/json.svg" alt="JSON" /> <img width="50" src="/Assets/Icons/XML_badge.svg" alt="XML" />
 <!-- <img width="50" src="/Assets/Icons/dockerfile.svg" alt="Dockerfile" />
@@ -188,7 +224,6 @@ Document Languages:
 [![Jinja2 Proficient](https://img.shields.io/badge/Jinja2-Proficient-darkgreen?logo=jinja&logoColor=white&style=flat)](https://jinja.palletsprojects.com)
 [![Font Awesome Proficient](https://img.shields.io/badge/Font%20Awesome-Proficient-darkgreen?logo=fontawesome&logoColor=white&style=flat)](https://fontawesome.com/)
 [![Replit Proficient](https://img.shields.io/badge/Replit-Proficient-darkgreen?logo=replit&logoColor=white&style=flat)](https://replit.com/@GinoMan)
-[![Unity3D Proficient](https://img.shields.io/badge/Unity3D-Proficient-darkgreen?logo=unity&logoColor=white&style=flat)](https://unity.com/)
 [![Unsplash Proficient](https://img.shields.io/badge/Unsplash-Proficient-darkgreen?logo=unsplash&logoColor=white&style=flat)](https://unsplash.com/)
 [![Wordpress Proficient](https://img.shields.io/badge/Wordpress-Proficient-darkgreen?logo=wordpress&logoColor=white&style=flat)](https://wordpress.org/)<br/>
 [![Apache Intermediate](https://img.shields.io/badge/Apache%20HTTPd-Intermediate-yellowgreen?logo=apache&logoColor=white&style=flat)](https://httpd.apache.org/)
@@ -201,7 +236,8 @@ Document Languages:
 [![Microsoft SQL Server Intermediate](https://img.shields.io/badge/Microsoft%20SQL%20Server-Intermediate-yellowgreen?logo=microsoftsqlserver&logoColor=white&style=flat)](https://www.microsoft.com/en-us/sql-server/)
 [![NodeJS Intermediate](https://img.shields.io/badge/NodeJS-Intermediate-yellowgreen?logo=nodedotjs&logoColor=white&style=flat)](https://nodejs.org/)
 [![PyTest Intermediate](https://img.shields.io/badge/PyTest-Intermediate-yellowgreen?logo=pytest&logoColor=white&style=flat)](https://pytest.org/)
-[![SQLite Intermediate](https://img.shields.io/badge/SQLite-Intermediate-yellowgreen?logo=sqlite&logoColor=white&style=flat)](https://www.sqlite.org/index.html)<br/>
+[![SQLite Intermediate](https://img.shields.io/badge/SQLite-Intermediate-yellowgreen?logo=sqlite&logoColor=white&style=flat)](https://www.sqlite.org/index.html)
+[![Unity3D Intermediate](https://img.shields.io/badge/Unity3D-Intermediate-yellowgreen?logo=unity&logoColor=white&style=flat)](https://unity.com/)<br/>
 [![EditorConfig Beginner](https://img.shields.io/badge/EditorConfig-Beginner-blue?logo=editorconfig&logoColor=white&style=flat)](https://editorconfig.org/)
 [![Flutter Beginner](https://img.shields.io/badge/Flutter-Beginner-blue?logo=flutter&logoColor=white&style=flat)](https://flutter.dev/)<br/>
 [![Qt Rusty](https://img.shields.io/badge/Qt-Rusty-darkred?logo=qt&logoColor=white&style=flat)](https://www.qt.io/)
@@ -225,14 +261,10 @@ Document Languages:
 # My Approach to Programming #
 
 - Completion: The project isn't done unless the code is documented, tested, and flexible.
-- Proven Design Principles: I adhere to proven design principles in a judicious manner. These include SOLID, DRY, YAGNI,
-and similar advice.
-- Outside In: I create new software from the outside in, first considering all of the libraries, inputs, outputs, and UI needed to
-make the program work, and then write the core logic to connect these components together.
-- Speak the Language: I don't write assembly in Java, I don't write C++ in Python. Learning a programming language means learning
-not just its components, its libraries, and its syntax, but also its idioms.
-- Building on the work: As programmers, we stand on the shoulders of the engineers who came before us. Proven solutions to
-problems are better than rolling our own, and most of the problems we face as programmers have been solved before by other programmers.
+- Proven Design Principles: I adhere to proven design principles in a judicious manner. These include SOLID, DRY, YAGNI, and similar advice.
+- Outside In: I create new software from the outside in, first considering all of the libraries, inputs, outputs, and UI needed to make the program work, and then write the core logic to connect these components together.
+- Speak the Language: I don't write assembly in Java, I don't write C++ in Python. Learning a programming language means learning not just its components, its libraries, and its syntax, but also its idioms.
+- Building on the work: As programmers, we stand on the shoulders of the engineers who came before us. Proven solutions to problems are better than rolling our own, and most of the problems we face as programmers have been solved before by other programmers.
 
 # Graphic Design #
 
@@ -310,6 +342,14 @@ This UI was built to log phone calls and the machines they were associated with 
 
 <div align="center">
 <img alt="Call Recorder UI Mockup" src="/Assets/UIs/2020-10-15%2021_47_35-Support%20Call%20Logger.png" />
+</div>
+
+## Diagrams ##
+
+I generated this diagram for everyone confused by the documentation for VSCode Snippet Tabstops (including myself). The documentation used to create this diagram is [here](https://code.visualstudio.com/docs/editor/userdefinedsnippets). I used this online generator: [Railroad Diagram Generator](https://railroad.omegatower.net/index.html). The code fed to the generator is [here](/Assets/Diagrams/vscode-snippets.js).
+
+<div align="center">
+<img alt="Diagram" src="/Assets/Diagrams/Snippet%20Tabstop%20Railroad%20Diagram.png">
 </div>
 
 # Fun Facts About GinoMan #
@@ -404,12 +444,3 @@ This UI was built to log phone calls and the machines they were associated with 
 [grids83]: /Assets/Grids/To%20Leave%20Grid%2032-8.png
 [grids84]: /Assets/Grids/To%20Leave%20Grid%2032-9.png
 [grids85]: /Assets/Grids/To%20Leave%20Grid%2032-10.png
-
-[banners01]: /Assets/Banners/How%20to%20Answer%20the%20Fool%20-%20Mr%20T%20Promo%20Banner.jpg
-[banners02]: /Assets/Banners/I%20Hate%20My%20Marriage.png
-[banners03]: /Assets/Banners/Life%20Group%20-%20Doing%20Life%20Together.png
-[banners04]: /Assets/Banners/One%20in%20a%20million.png
-[banners05]: /Assets/Banners/Real%20Man.png
-[banners06]: /Assets/Banners/The%20Art%20of%20Marriage.png
-
-[ui01]: /Assets/UIs/2020-10-15%2021_47_35-Support%20Call%20Logger.png

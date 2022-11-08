@@ -4,12 +4,13 @@
    viewBox="0 0 512 512"
    version="1.1"
    id="svg6057"
-   sodipodi:docname="powershell.svg"
+   sodipodi:docname="powershell-icon.svg"
    width="512"
    height="512"
-   inkscape:export-filename="powershell.svg"
+   inkscape:export-filename="powershell-icon.svg"
    inkscape:export-xdpi="2047.74"
    inkscape:export-ydpi="2047.74"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -22,13 +23,8 @@
     <inkscape:path-effect
        effect="fill_between_many"
        method="originald"
-       linkedpaths="#path6055,0,1"
-       id="path-effect6138"
-       is_visible="true"
-       lpeversion="0"
-       join="true"
-       close="true"
-       autoreverse="true" />
+       linkedpaths="#path6055,0,1|"
+       id="path-effect6138" />
   </defs>
   <sodipodi:namedview
      id="namedview6059"
@@ -39,7 +35,16 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
-     showgrid="false" />
+     showgrid="false"
+     inkscape:zoom="1.5173333"
+     inkscape:cx="181.56854"
+     inkscape:cy="270.2109"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6057" />
   <title
      id="title6053">PowerShell</title>
   <g
@@ -54,7 +59,7 @@
     <path
        d="m 494.52408,63.4485 c 12.11713,0 19.69034,9.87717 16.89572,22.07964 l -78.05738,340.94372 c -2.77329,12.20247 -14.86909,22.07964 -26.98623,22.07964 H 17.47592 c -12.11713,0 -19.69034,-9.87717 -16.89572,-22.07964 L 78.63758,85.52814 C 81.41087,73.32567 93.50667,63.4485 105.62381,63.4485 Z M 315.86035,262.82655 c 5.35458,-8.40519 4.84259,-19.30634 -1.91997,-26.51689 L 194.60368,109.33575 c -8.10654,-8.61853 -22.12231,-8.68253 -31.27416,-0.064 -9.15185,8.57586 -9.98383,22.52763 -1.8773,31.14615 l 99.45437,105.81159 v 2.34663 L 102.61586,363.21957 c -9.59985,6.97589 -11.37048,20.84232 -3.98927,30.99682 7.38121,10.1545 21.14098,12.73579 30.71949,5.75991 L 304.8952,273.89837 c 5.97323,-4.18126 9.34384,-7.78654 10.96515,-11.09315 z m -59.64702,93.84379 a 19.797008,19.797008 0 0 0 -19.92501,19.69035 c 0,10.87982 8.91719,19.69034 19.92501,19.69034 h 94.56911 a 19.797008,19.797008 0 0 0 19.92501,-19.69034 19.797008,19.797008 0 0 0 -19.92501,-19.69035 z"
        id="path6055"
-       style="fill:#0274b6;fill-opacity:1;stroke-width:21.333"
+       style="stroke-width:21.333;fill:#0274b6;fill-opacity:1"
        class="UnoptimicedTransforms" />
   </g>
   <metadata
