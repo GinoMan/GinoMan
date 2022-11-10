@@ -138,24 +138,49 @@ More to come later...
 
 # I'm Currently Working on #
 
+<table>
+
+<tr><td>
 <a href="https://github.com/GinoMan/PyPollyanna">
-<table><tr><td>
-<img alt="MongoDB" width="100" src="/Assets/Icons/python.svg" />
-</td>
+<img alt="PyPollyanna" width="100" src="/Assets/Icons/python.svg" />
+</a></td>
 <td rowspan="2">Documenting and Refactoring PyPollyanna<br/>He's currently writing the documentation for the code and there is a whole roadmap of features which need to be implemented.</td>
 </tr>
-<tr align="center"><td>PyPollyanna</td></tr></table></a>
+<tr align="center"><td><a href="https://github.com/GinoMan/PyPollyanna">PyPollyanna</a></td></tr>
+
+
+<tr><td>
+<a href="#">
+<img alt="Project Templates" width="100" src="/Assets/node_modules/simple-icons/icons/visualstudiocode.svg" style="filter: invert(8%) sepia(99%) saturate(6621%) hue-rotate(248deg) brightness(100%) contrast(145%)" />
+</a></td>
+<td rowspan="2">VSCode's marketplace has an extension called <a href="">Project Templates</a> that allows you to define a set of directories that define the initial files of a project. It also has a templating system to prompt you for values and fill them into the project files.<br/><br/> I'm creating a set of folders that define various kinds of projects and sets everything up and integrates one's workflow into VSCode's features (Debugging, tasks, version control, documentation, tests, etc.)</td>
+</tr>
+<tr align="center"><td><a href="#">Project Templates</a></td></tr></a>
+
+</table>
 
 # I'm Currently Learning #
 
+<table>
+
+<tr><td>
 <a href="https://www.mongodb.com">
-<table><tr><td>
 <img alt="MongoDB" width="100" src="/Assets/Icons/mongodb.svg" />
-</td>
-<td rowspan="2">MongoDB is a NoSQL Database that stores information in collections of documents. I plan to use Mongo for my own website.</td>
+</a></td>
+<td rowspan="2">MongoDB is a NoSQL Database that stores information in collections of documents. My own website uses mongo to store content.</td>
 </tr>
-<tr align="center"><td>MongoDB</td></tr></table>
-</a>
+<tr align="center"><td><a href="https://www.mongodb.com">MongoDB</a></td></tr>
+
+<tr><td>
+<a href="https://www.mongodb.com">
+<img alt="Flutter" width="100" src="/Assets/node_modules/simple-icons/icons/flutter.svg" style="filter: invert(41%) sepia(92%) saturate(549%) hue-rotate(179deg) brightness(100%) contrast(105%);" />
+</a></td>
+<td rowspan="2">Flutter is a killer multiplatform Mobile App framework using the Dart Programming Language by Google. It supports both Android and iOS out of the box and allows developers to create mobile applications very rapidly entirely in code.</td>
+</tr>
+<tr align="center"><td><a href="https://www.mongodb.com">MongoDB</a></td></tr>
+
+</table>
+
 
 # Ask me about #
 
@@ -170,6 +195,7 @@ All of these things however are at your fingertips with me to enrich your busine
 - Professional email systems that are unique for your business and establish an online identity
 - Social Media marketing that drives people to you and not your competitors
 - Search Engine Optimization that increases the likelihood that prospective customers will find you first.
+- Full branding for your business or social media channel: Video Thumbnails, Logos, Print graphics, Motion Graphics, Stingers, Software and Hardware consulting, Color Theming, Marketing, and Descriptions.
 - Copywriting that compels people to buy from you
 - Bespoke technology services that streamline your business
 - Software Integrations
@@ -357,6 +383,9 @@ I generated this diagram for everyone confused by the documentation for VSCode S
 - His first programming language was QBasic.
 - He doesn't talk about Bruno... But he'll sing about him.
 - According to his son, he gives really warm hugs and is so silly.
+- He studied Latin for four years, played Magic the Gathering, Dungeons and Dragons, Pokemon Trading Card Game, lots of video games, performed in and enjoyed watching shows on stage in High School. In short, he's a nerd.
+- He's a fan of manga and anime, especially the art style
+- His favorite webcomics are Jackson's Diary, Shelter, Brass and Sass, ILY Lily, Fictional Skin, Morgana and Oz, Exchange, and Lumine
 
 [grids01]: /Assets/Grids/Alpha%20Mission%20Full.png
 [grids02]: /Assets/Grids/Alpha%20Mission%202.png
