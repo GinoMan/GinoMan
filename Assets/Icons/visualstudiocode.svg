@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   role="img"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg6"
+   width="512"
+   height="512"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs10" />
+  <title
+     id="title2">Visual Studio Code</title>
+  <path
+     d="M 493.86691,55.201897 388.48176,4.4932874 A 31.871543,31.871543 0 0 0 352.10894,10.679867 L 150.2985,194.78389 62.406429,128.05419 a 21.311694,21.311694 0 0 0 -27.22094,1.21598 L 6.9832292,154.91246 a 21.333027,21.333027 0 0 0 -0.0213,31.55155 L 83.184839,256.00967 6.9619292,325.55534 a 21.333027,21.333027 0 0 0 0.0213,31.55155 l 28.2235898,25.62097 a 21.311694,21.311694 0 0 0 27.22094,1.21598 l 87.892081,-66.72971 201.81044,184.10403 a 31.828877,31.828877 0 0 0 36.35148,6.18657 l 105.42782,-50.7086 a 31.999541,31.999541 0 0 0 18.0904,-28.84225 V 84.044147 A 31.999541,31.999541 0 0 0 493.86691,55.201897 Z M 384.08715,372.23201 230.95868,256.00967 384.08715,139.78735 Z"
+     id="path4"
+     style="fill:#007acc;fill-opacity:1;stroke-width:21.333" />
+  <metadata
+     id="metadata9953">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Visual Studio Code</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
