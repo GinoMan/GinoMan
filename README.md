@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 # Table of Contents #
 
-- [Badges](#badge)
+- [Badges](#authorship-badge)
 - [Mission Statement](#mission-statement)
 - [Bio](#bio)
 - [Currently Working On](#im-currently-working-on)
@@ -33,11 +33,12 @@ Here are some ideas to get you started:
 - [Graphic Design](#graphic-design)
 	- [Print](#print)
 		- [Book Covers](#book-covers)
-	- [Grids](#grids)
+	- [Grids](#steam-grids)
 	- [Social Media Banners](#social-media-banners)
 	- [UI Design](#ui-design)
 	- [Diagrams](#diagrams)
-- [Fun Facts](#fun-facts-about-ginoman)
+- [Fun Facts](#fun-facts-about-gino)
+	- [Favorite Video Games](#ginos-favorite-video-games)
 
 # Authorship Badge #
 
@@ -393,6 +394,7 @@ I generated this diagram for everyone confused by the documentation for VSCode S
 - His favorite Video Games are in the table below:
 
 ## Gino's Favorite Video-games ##
+
 | ![Among the Sleep][fav-among-the-sleep] | ![Antichamber][fav-antichamber] | ![Bioshock][fav-bioshock] |
 | :----: | :----: | :----: |
 | Among The Sleep | Antichamber | Bioshock |
