@@ -1,5 +1,7 @@
 # Gino Vincenzini #
 
+<!-- markdownlint-disable MD013 -->
+
 <!--
 **GinoMan/GinoMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,25 +22,37 @@ Here are some ideas to get you started:
 
 # Table of Contents #
 
-- [Badges](#authorship-badge)
+- [Gino Vincenzini](#gino-vincenzini)
+- [Table of Contents](#table-of-contents)
+- [Authorship Badge](#authorship-badge)
 - [Mission Statement](#mission-statement)
 - [Bio](#bio)
-- [Currently Working On](#im-currently-working-on)
-- [Currently Learning](#im-currently-learning)
-- [Technologies I know](#technologies-i-know)
-	- [Programming Languages](#programming-languages)
+- [I'm Currently Working on](#im-currently-working-on)
+- [I'm Currently Learning](#im-currently-learning)
+- [Ask me about](#ask-me-about)
+- [Technologies I Know](#technologies-i-know)
+	- [Programming and Data Languages](#programming-and-data-languages)
+		- [Programming Languages:](#programming-languages)
+		- [Document Languages:](#document-languages)
 	- [Dev-Ops](#dev-ops)
 	- [Frameworks and Packages](#frameworks-and-packages)
-- [My Approach](#my-approach-to-programming)
+	- [Platforms](#platforms)
+	- [Software](#software)
+		- [Currently Use](#currently-use)
+		- [Social Media Links](#social-media-links)
+		- [Familiar With](#familiar-with)
+- [My Approach to Programming](#my-approach-to-programming)
 - [Graphic Design](#graphic-design)
 	- [Print](#print)
 		- [Book Covers](#book-covers)
-	- [Grids](#steam-grids)
+	- [Steam Grids](#steam-grids)
+		- [To Leave](#to-leave)
 	- [Social Media Banners](#social-media-banners)
 	- [UI Design](#ui-design)
+		- [Billable Call Recorder](#billable-call-recorder)
 	- [Diagrams](#diagrams)
-- [Fun Facts](#fun-facts-about-gino)
-	- [Favorite Video Games](#ginos-favorite-video-games)
+- [Fun Facts About Gino](#fun-facts-about-gino)
+	- [Gino's Favorite Video-games](#ginos-favorite-video-games)
 
 # Authorship Badge #
 
@@ -115,8 +129,6 @@ https://www.indeed.com/career-advice/career-development/core-values
 - Dominion
 - Theonomy
 
-
-
 ## Personal Interests ##
 
 ## Strengths ##
@@ -129,7 +141,7 @@ https://www.indeed.com/career-advice/career-development/core-values
 
 # Bio #
 
-Gino Vincenzini is a programmer, designer, technology consultant, and ABA behavior tech living in Chester County Pennsylvania with his son Ethan. He often spends his free time programming or helping others learn programming, playing with his son, reading books and webcomics, or playing video and tabletop games. 
+Gino Vincenzini is a programmer, designer, technology consultant, and ABA behavior tech living in Chester County Pennsylvania with his son Ethan. He often spends his free time programming or helping others learn programming, playing with his son, reading books and webcomics, or playing video and tabletop games.
 
 <blockquote>
 	First, solve the problem. Then, write the code. - John Johnson
@@ -142,56 +154,53 @@ More to come later...
 <table>
 
 <tr><td>
-<a href="https://github.com/GinoMan/PyPollyanna">
-<img alt="PyPollyanna" width="100" src="/Assets/Icons/python.svg" />
+<a href="https://github.com/GinoMan/SuperMetroidTools">
+<img alt="SuperMetroidTools" width="100" src="/Assets/Icons/lua.svg" />
 </a></td>
-<td rowspan="2">Documenting and Refactoring PyPollyanna<br/>He's currently writing the documentation for the code and there is a whole roadmap of features which need to be implemented.</td>
+<td rowspan="2"><h4>Rewriting The Super Metroid Bizhawk Script</h4>
+My Bizhawk script for Super Metroid while cool is getting long in the tooth. The API has been updated in Bizhawk in ways that makes how I had to design my script before obsolete. The new script will be almost a full rewrite. Calls into the game's memory will be more performant, Game states will be further analyzed and given names on the screen, I've not decided whether to add icons instead of keeping the text icons for pickups, and other various improvements are planned.</td>
 </tr>
-<tr align="center"><td><a href="https://github.com/GinoMan/PyPollyanna">PyPollyanna</a></td></tr>
-
+<tr align="center"><td><a href="https://github.com/GinoMan/SuperMetroidTools">SuperMetroidTools</a></td></tr>
 
 <tr><td>
 <a href="#">
 <img alt="Project Templates" width="100" src="/Assets/Icons/visualstudiocode.svg" />
 </a></td>
-<td rowspan="2">VSCode's marketplace has an extension called <a href="">Project Templates</a> that allows you to define a set of directories that define the initial files of a project. It also has a templating system to prompt you for values and fill them into the project files.<br/><br/> I'm creating a set of folders that define various kinds of projects and sets everything up and integrates one's workflow into VSCode's features (Debugging, tasks, version control, documentation, tests, etc.)</td>
+<td rowspan="2"><h4>VSCode Project Templates</h4>
+VSCode's marketplace has an extension called <a href="">Project Templates</a> that allows you to define a set of directories that define the initial files of a project. It also has a templating system to prompt you for values and fill them into the project files.<br/><br/> I'm creating a set of folders that define various kinds of projects and sets everything up and integrates one's workflow into VSCode's features (Debugging, tasks, version control, documentation, tests, etc.)</td>
 </tr>
-<tr align="center"><td><a href="#">Project Templates</a></td></tr></a>
-
+<tr align="center"><td><a href="#">Project Templates</a></td></tr>
 </table>
 
 # I'm Currently Learning #
 
 <table>
-
 <tr>
-<td><a href="https://www.mongodb.com">
-<img alt="MongoDB" width="100" src="/Assets/Icons/mongodb.svg" />
+<td><a href="https://aws.amazon.com/">
+<img alt="AWS" width="100" src="/Assets/Icons/amazonaws.svg" />
 </a></td>
-<td rowspan="2">MongoDB is a NoSQL Database that stores information in collections of documents. My own website uses mongo to store content.</td>
+<td rowspan="2"><h4>AWS Certified Developer Associate Certification</h4>
+<br/>This certification identifies developers who understand core AWS services and architecture and their best practices proving a proficiency in "developing, deploying, and debugging cloud-based applications using AWS". (Adapted from <a href="https://aws.amazon.com/certification/certified-developer-associate/">AWS Certified Developer - Amazon Web Services</a>).</td>
 </tr>
-<tr align="center"><td><a href="https://www.mongodb.com">MongoDB</a></td></tr>
-
-<tr>
-<td><a href="https://flutter.dev">
-<img alt="Flutter" width="100" src="/Assets/Icons/flutter.svg" />
-</a></td>
-
-<td rowspan="2">Flutter is a killer multiplatform Mobile App framework using the Dart Programming Language by Google. It supports both Android and iOS out of the box and allows developers to create mobile applications very rapidly entirely in code.</td>
+<tr align="center"><td><a href="https://www.mongodb.com">AWS Certified Developer</a></td>
 </tr>
 
-<tr align="center"><td>
-<a href="https://flutter.dev">Flutter</a>
-</td></tr>
-
+<tr>
+<td><a href="https://www.rust-lang.org/">
+<img alt="Rust" width="100" src="/Assets/Icons/rust.svg" />
+</a></td>
+<td rowspan="2"><h4>Rust Programming Language</h4>
+</td>
+</tr>
+<tr align="center"><td><a href="https://www.rust-lang.org/">Rust</a></td>
+</tr>
 </table>
-
 
 # Ask me about #
 
 Technology Consulting. I can provide the knowledge and the technology to take your business to the next level and drive conversions to you through internet marketing and online presence. Having a website is great and if you don't have one, you should, but it's not very helpful if people cannot find your business when they search "your product near me". It's even less helpful if that site doesn't set them up to make a purchase (whether that's scheduling your time for a service, or buying a product you offer in store to be shipped to them).
 
-And that's just one side of the equation. The other side is setting yourself up for success by implementing technologies that streamlines your operations so that you can reduce overhead costs and customer disappointments. 
+And that's just one side of the equation. The other side is setting yourself up for success by implementing technologies that streamlines your operations so that you can reduce overhead costs and customer disappointments.
 
 All of these things however are at your fingertips with me to enrich your business and make the long term cost more than worth it. I provide...
 
@@ -215,24 +224,12 @@ All of these things however are at your fingertips with me to enrich your busine
 
 ### Programming Languages: ###
 
-<a href=""><img width="50" src="/Assets/Icons/c_badge.svg" alt="C" /></a>
-<a href=""><img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/cplusplus.svg" alt="C++" /></a>
-<a href=""><img width="50" src="/Assets/Icons/C-Sharp.svg" alt="C#" /></a>
-<a href=""><img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/python.svg" alt="Python 3.10" /></a>
-<a href=""><img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/php.svg" alt="PHP 7.0" /></a>
-<a href=""><img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/javascript.svg" alt="JavaScript" /></a>
-<a href=""><img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/typescript.svg" alt="TypeScript" /></a>
-<a href=""><img width="50" src="/Assets/Icons/lua-icon.svg" alt="Lua" /></a>
-<a href=""><img width="50" src="/Assets/Icons/scratch-icon.svg" alt="Scratch" /></a>
-<a href=""><img width="50" src="/Assets/Icons/powershell-icon.svg" alt="Powershell" /></a>
-<a href=""><img width="50" src="/Assets/Icons/bash.svg" alt="Bash" /></a>
-<a href=""><img width="50" src="/Assets/Icons/batch.svg" alt="Batch Script" /></a>
-<a href=""><img width="50" src="/Assets/Icons/autohotkey.svg" alt="AutoHotKey" /></a>
+<a href="https://www.open-std.org/jtc1/sc22/wg14/"><img width="50" src="/Assets/Icons/c_badge.svg" alt="C" /></a> <a href="https://isocpp.org/"><img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/cplusplus.svg" alt="C++" /></a> <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img width="50" src="/Assets/Icons/C-Sharp.svg" alt="C#" /></a> <a href="https://www.python.org/"><img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/python.svg" alt="Python 3.11" /></a> <a href="https://www.php.net/"><img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/php.svg" alt="PHP 7.0" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/javascript.svg" alt="JavaScript" /></a> <a href="https://www.typescriptlang.org/"><img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/typescript.svg" alt="TypeScript" /></a> <a href="https://www.lua.org/"><img width="50" src="/Assets/Icons/lua-icon.svg" alt="Lua" /></a> <a href="https://scratch.mit.edu/"><img width="50" src="/Assets/Icons/scratch-icon.svg" alt="Scratch" /></a> <a href="https://learn.microsoft.com/en-us/powershell/"><img width="50" src="/Assets/Icons/powershell-icon.svg" alt="Powershell" /></a> <a href="https://www.gnu.org/software/bash/"><img width="50" src="/Assets/Icons/bash.svg" alt="Bash" /></a> <a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands"><img width="50" src="/Assets/Icons/batch.svg" alt="Batch Script" /></a> <a href="https://www.autohotkey.com/"><img width="50" src="/Assets/Icons/autohotkey.svg" alt="AutoHotKey" /></a>
 <br />
 
 ### Document Languages: ###
 
-<img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/html5.svg" alt="HTML5" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/css3.svg" alt="CSS3" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/markdown.svg" alt="Markdown" /> <img width="50" src="/Assets/Icons/CSV_badge.svg" alt="CSV" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/json.svg" alt="JSON" /> <img width="50" src="/Assets/Icons/XML_badge.svg" alt="XML" />
+<a href="https://www.w3.org/html/"><img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/html5.svg" alt="HTML5" /></a> <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/css3.svg" alt="CSS3" /></a> <a href="https://daringfireball.net/projects/markdown/"><img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/markdown.svg" alt="Markdown" /></a> <a href="https://en.wikipedia.org/wiki/Comma-separated_values"><img width="50" src="/Assets/Icons/CSV_badge.svg" alt="CSV" /></a> <a href="https://www.json.org/json-en.html"><img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/json.svg" alt="JSON" /></a> <a href="https://www.w3.org/XML/"><img width="50" src="/Assets/Icons/XML_badge.svg" alt="XML" /></a>
 <!-- <img width="50" src="/Assets/Icons/dockerfile.svg" alt="Dockerfile" />
 <img width="50" src="/Assets/Icons/docker-compose.svg" alt="Docker-Compose" /> -->
 <!-- <img width="50" src="/Assets/Icons/ini.svg" alt="[INI]" /> -->
@@ -240,7 +237,8 @@ All of these things however are at your fingertips with me to enrich your busine
 
 ## Dev-Ops ##
 
-<img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/git.svg" alt="Git" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/github.svg" alt="Github" /> <img width="50" src="/Assets/Icons/amazonaws.svg" alt="Amazon AWS" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/docker.svg" alt="Docker" /> <img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/trello.svg" alt="Trello" /> 
+<a href="https://git-scm.com/"><img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/git.svg" alt="Git" /></a> <a href="https://github.com/GinoMan/"><img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/github.svg" alt="Github" /></a> <a href="https://aws.amazon.com/"><img width="50" src="/Assets/Icons/amazonaws.svg" alt="Amazon AWS" /></a> <a href="https://www.docker.com/"><img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/docker.svg" alt="Docker" /></a>
+<!-- <a href="https://trello.com/"><img width="50" src="/Assets/node_modules/super-tiny-icons/images/svg/trello.svg" alt="Trello" /></a> -->
 
 <!-- Add The following Technologies:
 - 
@@ -248,46 +246,95 @@ All of these things however are at your fingertips with me to enrich your busine
 
 ## Frameworks and Packages ##
 
-[![MongoDB Learning](https://img.shields.io/badge/MongoDB-Learning-orange?logo=mongodb&logoColor=white&style=flat)](https://www.mongodb.com)<br/>
-[![.NET Proficient](https://img.shields.io/badge/.NET-Proficient-darkgreen?logo=dotnet&logoColor=white&style=flat)](https://dotnet.microsoft.com/en-us/)
-[![Chocolatey Proficient](https://img.shields.io/badge/Chocolatey-Proficient-darkgreen?logo=chocolatey&logoColor=white&style=flat)](https://community.chocolatey.org/)
-[![Flask Proficient](https://img.shields.io/badge/Flask-Proficient-darkgreen?logo=flask&logoColor=white&style=flat)](https://flask.palletsprojects.com)
-[![Jinja2 Proficient](https://img.shields.io/badge/Jinja2-Proficient-darkgreen?logo=jinja&logoColor=white&style=flat)](https://jinja.palletsprojects.com)
-[![Font Awesome Proficient](https://img.shields.io/badge/Font%20Awesome-Proficient-darkgreen?logo=fontawesome&logoColor=white&style=flat)](https://fontawesome.com/)
-[![Replit Proficient](https://img.shields.io/badge/Replit-Proficient-darkgreen?logo=replit&logoColor=white&style=flat)](https://replit.com/@GinoMan)
-[![Unsplash Proficient](https://img.shields.io/badge/Unsplash-Proficient-darkgreen?logo=unsplash&logoColor=white&style=flat)](https://unsplash.com/)
-[![Wordpress Proficient](https://img.shields.io/badge/Wordpress-Proficient-darkgreen?logo=wordpress&logoColor=white&style=flat)](https://wordpress.org/)<br/>
-[![Apache Intermediate](https://img.shields.io/badge/Apache%20HTTPd-Intermediate-yellowgreen?logo=apache&logoColor=white&style=flat)](https://httpd.apache.org/)
-[![Twitter Bootstrap Intermediate](https://img.shields.io/badge/Twitter%20Bootstrap-Intermediate-yellowgreen?logo=bootstrap&logoColor=white&style=flat)](https://getbootstrap.com/2.0.2/)
-[![CPanel Intermediate](https://img.shields.io/badge/CPanel-Intermediate-yellowgreen?logo=alpinelinux&logoColor=white&style=flat)](https://www.cpanel.com/)
-[![Docker Intermediate](https://img.shields.io/badge/Docker-Intermediate-yellowgreen?logo=docker&logoColor=white&style=flat)](https://docker.io)
-[![Google Fonts Intermediate](https://img.shields.io/badge/Google%20Fonts-Intermediate-yellowgreen?logo=googlefonts&logoColor=white&style=flat)](https://fonts.google.com)
-[![jQuery Intermediate](https://img.shields.io/badge/jQuery-Intermediate-yellowgreen?logo=jquery&logoColor=white&style=flat)](https://jquery.com/)
-[![Let's Encrypt Intermediate](https://img.shields.io/badge/Let's%20Encrypt-Intermediate-yellowgreen?logo=letsencrypt&logoColor=white&style=flat)](https://letsencrypt.org/)
-[![Microsoft SQL Server Intermediate](https://img.shields.io/badge/Microsoft%20SQL%20Server-Intermediate-yellowgreen?logo=microsoftsqlserver&logoColor=white&style=flat)](https://www.microsoft.com/en-us/sql-server/)
-[![NodeJS Intermediate](https://img.shields.io/badge/NodeJS-Intermediate-yellowgreen?logo=nodedotjs&logoColor=white&style=flat)](https://nodejs.org/)
-[![PyTest Intermediate](https://img.shields.io/badge/PyTest-Intermediate-yellowgreen?logo=pytest&logoColor=white&style=flat)](https://pytest.org/)
-[![SQLite Intermediate](https://img.shields.io/badge/SQLite-Intermediate-yellowgreen?logo=sqlite&logoColor=white&style=flat)](https://www.sqlite.org/index.html)
-[![Unity3D Intermediate](https://img.shields.io/badge/Unity3D-Intermediate-yellowgreen?logo=unity&logoColor=white&style=flat)](https://unity.com/)<br/>
-[![EditorConfig Beginner](https://img.shields.io/badge/EditorConfig-Beginner-blue?logo=editorconfig&logoColor=white&style=flat)](https://editorconfig.org/)
-[![Flutter Beginner](https://img.shields.io/badge/Flutter-Beginner-blue?logo=flutter&logoColor=white&style=flat)](https://flutter.dev/)<br/>
-[![Qt Rusty](https://img.shields.io/badge/Qt-Rusty-darkred?logo=qt&logoColor=white&style=flat)](https://www.qt.io/)
+[![Rust | Learning](https://img.shields.io/badge/Rust-Learning-orange?logo=rust&logoColor=white&style=flat)](https://www.rust-lang.org)<br/>
+[![AWS | Learning](https://img.shields.io/badge/AWS-Learning-orange?logo=amazonaws&logoColor=white&style=flat)](https://aws.amazon.com)<br/>
+[![.NET | Proficient](https://img.shields.io/badge/.NET-Proficient-darkgreen?logo=dotnet&logoColor=white&style=flat)](https://dotnet.microsoft.com/en-us/)
+[![Chocolatey | Proficient](https://img.shields.io/badge/Chocolatey-Proficient-darkgreen?logo=chocolatey&logoColor=white&style=flat)](https://community.chocolatey.org/)
+[![Flask | Proficient](https://img.shields.io/badge/Flask-Proficient-darkgreen?logo=flask&logoColor=white&style=flat)](https://flask.palletsprojects.com)
+[![Jinja2 | Proficient](https://img.shields.io/badge/Jinja2-Proficient-darkgreen?logo=jinja&logoColor=white&style=flat)](https://jinja.palletsprojects.com)
+[![Font Awesome | Proficient](https://img.shields.io/badge/Font%20Awesome-Proficient-darkgreen?logo=fontawesome&logoColor=white&style=flat)](https://fontawesome.com/)
+[![Replit | Proficient](https://img.shields.io/badge/Replit-Proficient-darkgreen?logo=replit&logoColor=white&style=flat)](https://replit.com/@GinoMan)
+[![Unsplash | Proficient](https://img.shields.io/badge/Unsplash-Proficient-darkgreen?logo=unsplash&logoColor=white&style=flat)](https://unsplash.com/)
+[![Wordpress | Proficient](https://img.shields.io/badge/Wordpress-Proficient-darkgreen?logo=wordpress&logoColor=white&style=flat)](https://wordpress.org/)<br/>
+[![Apache | Intermediate](https://img.shields.io/badge/Apache%20HTTPd-Intermediate-yellowgreen?logo=apache&logoColor=white&style=flat)](https://httpd.apache.org/)
+[![Twitter Bootstrap | Intermediate](https://img.shields.io/badge/Twitter%20Bootstrap-Intermediate-yellowgreen?logo=bootstrap&logoColor=white&style=flat)](https://getbootstrap.com/2.0.2/)
+[![CPanel | Intermediate](https://img.shields.io/badge/CPanel-Intermediate-yellowgreen?logo=alpinelinux&logoColor=white&style=flat)](https://www.cpanel.com/)
+[![Docker | Intermediate](https://img.shields.io/badge/Docker-Intermediate-yellowgreen?logo=docker&logoColor=white&style=flat)](https://docker.io)
+[![Google Fonts | Intermediate](https://img.shields.io/badge/Google%20Fonts-Intermediate-yellowgreen?logo=googlefonts&logoColor=white&style=flat)](https://fonts.google.com)
+[![jQuery | Intermediate](https://img.shields.io/badge/jQuery-Intermediate-yellowgreen?logo=jquery&logoColor=white&style=flat)](https://jquery.com/)
+[![Let's Encrypt | Intermediate](https://img.shields.io/badge/Let's%20Encrypt-Intermediate-yellowgreen?logo=letsencrypt&logoColor=white&style=flat)](https://letsencrypt.org/)
+[![Microsoft SQL Server | Intermediate](https://img.shields.io/badge/Microsoft_SQL_Server-Intermediate-yellowgreen?logo=microsoftsqlserver&logoColor=white&style=flat)](https://www.microsoft.com/en-us/sql-server/)
+[![NodeJS | Intermediate](https://img.shields.io/badge/NodeJS-Intermediate-yellowgreen?logo=nodedotjs&logoColor=white&style=flat)](https://nodejs.org/)
+[![PyTest | Intermediate](https://img.shields.io/badge/PyTest-Intermediate-yellowgreen?logo=pytest&logoColor=white&style=flat)](https://pytest.org/)
+[![SQLite | Intermediate](https://img.shields.io/badge/SQLite-Intermediate-yellowgreen?logo=sqlite&logoColor=white&style=flat)](https://www.sqlite.org/index.html)
+[![Unity3D | Intermediate](https://img.shields.io/badge/Unity3D-Intermediate-yellowgreen?logo=unity&logoColor=white&style=flat)](https://unity.com/)<br/>
+[![EditorConfig | Beginner](https://img.shields.io/badge/EditorConfig-Beginner-blue?logo=editorconfig&logoColor=white&style=flat)](https://editorconfig.org/)
+[![Flutter | Beginner](https://img.shields.io/badge/Flutter-Beginner-blue?logo=flutter&logoColor=white&style=flat)](https://flutter.dev/)<br/>
+[![Qt | Rusty](https://img.shields.io/badge/Qt-Rusty-darkred?logo=qt&logoColor=white&style=flat)](https://www.qt.io/)
 
 ## Platforms ##
 
-[![Windows Proficient](https://img.shields.io/badge/Windows-Proficient-darkgreen?logo=windows&logoColor=white&style=flat)](https://www.microsoft.com/en-us/windows)
-[![Linux Proficient](https://img.shields.io/badge/Linux-Proficient-darkgreen?logo=linux&logoColor=white&style=flat)](https://www.linux.com/)
-[![Ubuntu Proficient](https://img.shields.io/badge/Ubuntu-Proficient-darkgreen?logo=ubuntu&logoColor=white&style=flat)](https://ubuntu.com/)
-[![RaspberryPi Proficient](https://img.shields.io/badge/RaspberryPi-Proficient-darkgreen?logo=raspberrypi&logoColor=white&style=flat)](https://www.raspberrypi.com/)<br/>
-[![Android Intermediate](https://img.shields.io/badge/Android-Intermediate-yellowgreen?logo=android&logoColor=white&style=flat)](https://www.android.com/)
-[![Mac OS Intermediate](https://img.shields.io/badge/Mac%20OS-Intermediate-yellowgreen?logo=macos&logoColor=white&style=flat)](https://www.apple.com/in/macos/monterey/)
+[![Windows 11 | Proficient](https://img.shields.io/badge/Windows_11-Proficient-darkgreen?logo=windows&logoColor=white&style=flat)](https://www.microsoft.com/en-us/windows)
+[![Linux | Proficient](https://img.shields.io/badge/Linux-Proficient-darkgreen?logo=linux&logoColor=white&style=flat)](https://www.linux.com/)
+[![Ubuntu | Proficient](https://img.shields.io/badge/Ubuntu-Proficient-darkgreen?logo=ubuntu&logoColor=white&style=flat)](https://ubuntu.com/)
+[![RaspberryPi | Proficient](https://img.shields.io/badge/RaspberryPi-Proficient-darkgreen?logo=raspberrypi&logoColor=white&style=flat)](https://www.raspberrypi.com/)<br/>
+[![Android | Intermediate](https://img.shields.io/badge/Android-Intermediate-yellowgreen?logo=android&logoColor=white&style=flat)](https://www.android.com/)
+[![Mac OS | Intermediate](https://img.shields.io/badge/Mac%20OS-Intermediate-yellowgreen?logo=macos&logoColor=white&style=flat)](https://www.apple.com/in/macos/monterey/)
+[![Amazon AWS | Beginner](https://img.shields.io/badge/Amazon_AWS-Beginner-darkgreen?logo=amazonaws&logoColor=white&style=flat)](https://aws.amazon.com/)
 
-## Software I Use ##
+## Software ##
 
-[![TMux Proficient](https://img.shields.io/badge/TMux-Proficient-darkgreen?logo=tmux&logoColor=white&style=flat)](https://github.com/tmux/tmux)
-[![VSCode Proficient](https://img.shields.io/badge/VSCode-Proficient-darkgreen?logo=visualstudiocode&logoColor=white&style=flat)](https://code.visualstudio.com)<br/>
+### Currently Use ###
+
+[![Windows Terminal | Terminal Emulator](https://img.shields.io/badge/Windows_Terminal-Proficient-darkgreen?logo=windowsterminal&logoColor=white&style=flat)](https://github.com/microsoft/terminal)
+[![VSCode | Code Environment](https://img.shields.io/badge/VSCode-Proficient-darkgreen?logo=visualstudiocode&logoColor=white&style=flat)](https://code.visualstudio.com)
+[![Powershell | Shell](https://img.shields.io/badge/Powershell-Intermediate-yellowgreen?logo=powershell&logoColor=white&style=flat)](https://learn.microsoft.com/en-us/powershell/)
+[![Chocolatey | Package Manager](https://img.shields.io/badge/Chocolatey-Proficient-darkgreen?logo=chocolatey&logoColor=white&style=flat)](https://community.chocolatey.org/)
+[![Adobe Acrobat Reader | PDF Viewer](https://img.shields.io/badge/Adobe_Acrobat_Reader-PDF_Viewer-darkgreen?logo=adobeacrobatreader&logoColor=white&style=flat)](https://www.adobe.com/acrobat)
+[![AMD | Microprocessor and Graphics](https://img.shields.io/badge/AMD-Microprocessor_and_Graphics-darkgreen?logo=amd&logoColor=white&style=flat)](https://www.amd.com)
+[![Android | Smartphone OS](https://img.shields.io/badge/Android-Smartphone OS-darkgreen?logo=android&logoColor=white&style=flat)](https://android.google.com)
+[![Asus | Vivobook 14](https://img.shields.io/badge/Asus-Vivobook_14-darkgreen?logo=asus&logoColor=white&style=flat)](https://asus.com)
+
+### Social Media Links ###
+
+[![Discord | GinoMan2440](https://img.shields.io/badge/Discord-GinoMan2440-#8600ff?logo=discord&logoColor=white&style=flat)](https://discord.com)
+[![LinkedIn | GinoVincenzini](https://img.shields.io/badge/LinkedIn-GinoVincenzini-darkblue?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/GinoVincenzini)
+[![Github | GinoMan](https://img.shields.io/badge/Github-GinoMan-black?logo=github&logoColor=white&style=flat)](https://github.com/GinoMan)
+
+<!-- 
+Using:
+- adblockplus
+- adobeacrobatreader
+- amd
+- android
+- apache
+- asus
+- autohotkey
+- battledotnet
+- chocolatey
+- codecov
+- curl
+- discord
+- docker
+- dropbox
+- duckduckgo
+- epicgames
+- 
+
+Look Into:
+- codersrank
+- codewars
+
+Familiar With:
+- dovecot
+
+
+-->
+
+### Familiar With ###
+
 [![Neovim Intermediate](https://img.shields.io/badge/Neovim-Intermediate-yellowgreen?logo=neovim&logoColor=white&style=flat)](https://neovim.io/)
-
+[![TMux Intermediate](https://img.shields.io/badge/TMux-Intermediate-yellowgreen?logo=tmux&logoColor=white&style=flat)](https://github.com/tmux/tmux)
 
 # My Approach to Programming #
 
@@ -505,7 +552,6 @@ I generated this diagram for everyone confused by the documentation for VSCode S
 [fav-unreal-tournament-3]: /Assets/Grids/Favorites/Unreal%20Tournament%203.png
 [fav-unreal-tournament-2004]: /Assets/Grids/Favorites/Unreal%20Tournament%202004.png
 [fav-warhammer-40k]: /Assets/Grids/Favorites/Warhammer%2040k%20Dawn%20of%20War.png
-
 
 [the-big-windup]: https://www.crunchyroll.com/series/GP5HJ8EDW/big-windup
 [tokyo-ghoul]: https://tokyoghoul.online/
