@@ -292,7 +292,7 @@ All of these things however are at your fingertips with me to enrich your busine
 [![Chocolatey | Package Manager](https://img.shields.io/badge/Chocolatey-Proficient-darkgreen?logo=chocolatey&logoColor=white&style=flat)](https://community.chocolatey.org/)
 [![Adobe Acrobat Reader | PDF Viewer](https://img.shields.io/badge/Adobe_Acrobat_Reader-PDF_Viewer-darkgreen?logo=adobeacrobatreader&logoColor=white&style=flat)](https://www.adobe.com/acrobat)
 [![AMD | Microprocessor and Graphics](https://img.shields.io/badge/AMD-Microprocessor_and_Graphics-darkgreen?logo=amd&logoColor=white&style=flat)](https://www.amd.com)
-[![Android | Smartphone OS](https://img.shields.io/badge/Android-Smartphone OS-darkgreen?logo=android&logoColor=white&style=flat)](https://android.google.com)
+[![Android | Smartphone OS](https://img.shields.io/badge/Android-Smartphone_OS-darkgreen?logo=android&logoColor=white&style=flat)](https://android.google.com)
 [![Asus | Vivobook 14](https://img.shields.io/badge/Asus-Vivobook_14-darkgreen?logo=asus&logoColor=white&style=flat)](https://asus.com)
 
 ### Social Media Links ###
