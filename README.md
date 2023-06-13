@@ -1,4 +1,7 @@
-# Gino Vincenzini #
+<div  align="center">
+<a href="https://GinoVincenzini.com" alt="Gino Vincenzini | Programming, Design, Art, Documentation"><img src="/Assets/Badges/gino-vincenzini-programming-%20-design-%20-art-%20-documentation.svg" /></a>
+</div>
+<hr/>
 
 <!-- markdownlint-disable MD013 -->
 
@@ -20,11 +23,10 @@ Here are some ideas to get you started:
 <a href="https://ginovincenzini.com"><img src="/Assets/ginov_logo_web.svg" width="50%" /></a>
 </div>
 
-[![Gino Vincenzini | Programming, Design, Art, Documentation](/Assets/Badges/gino-vincenzini-programming-%20-design-%20-art-%20-documentation.svg)](https://GinoVincenzini.com)
+<!-- [![Gino Vincenzini | Programming, Design, Art, Documentation](/Assets/Badges/gino-vincenzini-programming-%20-design-%20-art-%20-documentation.svg)](https://GinoVincenzini.com) -->
 
 # Table of Contents #
 
-- [Gino Vincenzini](#gino-vincenzini)
 - [Table of Contents](#table-of-contents)
 - [Authorship Badge](#authorship-badge)
 - [Mission Statement](#mission-statement)
