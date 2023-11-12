@@ -196,7 +196,7 @@ All of these things however are at your fingertips with me to enrich your busine
 - [![Github | GinoMan](https://img.shields.io/badge/Github-GinoMan-black?logo=github&logoColor=white&style=flat)](https://github.com/GinoMan)
 - [![Stackoverflow | Gino V](https://img.shields.io/badge/Stack_Overflow-Gino_V-orange?logo=stackoverflow&logoColor=white&style=flat)](https://stackoverflow.com/users/21332880/gino-v)
 - [![Discord | GinoMan2440](https://img.shields.io/badge/Discord-GinoMan2440-8600ff?logo=discord&logoColor=white&style=flat)](https://discord.com)
-- [![SteamgridDB | GinoMan](https://img.shields.io/badge/SteamGrid_DB-GinoMan-5fb4f0?logo=steam&logoColor=3a6e92&style=flat)](https://www.steamgriddb.com/profile/76561197998525805)
+- [![SteamgridDB | GinoMan](https://img.shields.io/badge/SteamGrid_DB-GinoMan-3a6e92?logo=steam&logoColor=5fb4f0&style=flat)](https://www.steamgriddb.com/profile/76561197998525805)
 
 # My Approach to Programming #
 
