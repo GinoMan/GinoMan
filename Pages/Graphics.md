@@ -10,7 +10,7 @@
 
 ## Steam Grids ##
 
-I created these grids in GIMP because I could not find steam grids for them online. Very little of what's in these grids represents my own artwork, instead, I used GIMP to combine freely available assets on the internet to create the final image. At times I had to carve the logo itself out of the image, at other points, I had to fix spotty graphics myself.
+I created these grids in GIMP because I could not find steam grids for them online. Very little of what's in these grids represents my own artwork, instead, I used GIMP to combine freely available assets on the internet to create the final image. At times I had to carve the logo itself out of the image, at other points, I had to fix spotty graphics myself. For some, only some cropping and filling in was required while for others I had to generate backgrounds from scratch using gradients and fills. 
 
 | ![Alpha Mission][grids01] | ![Alpha Mission 2][grids02] | ![Alwa's Awakening][grids03] |
 | ----------- | ----------- | ----------- |
@@ -35,7 +35,7 @@ I created these grids in GIMP because I could not find steam grids for them onli
 
 ### To Leave ###
 
-To Leave, the game, was missing grids but the makers had created several wallpapers for the computer desktop and the logo wasn't difficult to carve out from the graphics. Once I had it carved out, I combined the logo with the wallpapers to create these grids.
+To Leave, the game, was missing grids but the makers had created several wallpapers for desktop backgrounds and the logo wasn't difficult to carve out from the graphics. Once I had it carved out, I combined the logo with the wallpapers to create these grids.
 
 | ![To Leave][grids56] | ![To Leave][grids57] | ![To Leave][grids58] |
 | -------------------- | -------------------- | -------------------- |
