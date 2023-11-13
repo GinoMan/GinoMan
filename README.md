@@ -168,7 +168,7 @@ VSCode's marketplace has an extension called <a href="">Project Templates</a> th
 </tr>
 </table>
 
-# Ask me about #
+# Ask me about... #
 
 Technology Consulting. I can provide the knowledge and the technology to take your business to the next level and drive conversions to you through internet marketing and online presence. Having a website is great and if you don't have one, you should, but it's not very helpful if people cannot find your business when they search "your product near me". It's even less helpful if that site doesn't set them up to make a purchase (whether that's scheduling your time for a service, or buying a product you offer in store to be shipped to them).
 

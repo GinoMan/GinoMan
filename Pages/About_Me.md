@@ -4,9 +4,17 @@
 - He doesn't talk about Bruno... But he'll sing about him.
 - According to his son, he gives really warm hugs and is so silly.
 - He studied Latin for four years, played Magic the Gathering, Dungeons and Dragons, Pokemon Trading Card Game, lots of video games, performed in and enjoyed watching shows on stage in High School. In short, he's a nerd.
-- He's a fan of manga and anime, especially the art style; his favorites are [The Big Windup][the-big-windup], [Tokyo Ghoul (Manga)][tokyo-ghoul], [Ouran High School Host Club][host-club], [Pokemon The Animated Series (seasons 1-3)][pokemon], and [Avatar: The Last Airbender][avatar].
-- His favorite webcomics are [Jackson's Diary][jacksons-diary], [Shelter][shelter], [Brass and Sass][brass-and-sass], [ILY Lily][ily-lily], [Fictional Skin][fictional-skin], [Morgana and Oz][morgana-and-oz], [Exchange][exchange], and [Lumine][lumine].
-- His favorite Video Games are in the table below:
+- He's a fan of manga and anime, especially the art style; his favorites are below.
+
+## Gino's Favorite Anime/Manga ##
+
+| [![Avatar: The Last Airbender](/Assets/Grids/Favorite-Fiction/Avatar%20-%20The%20Last%20Airbender.png)][avatar] | [![The Big Windup](/Assets/Grids/Favorite-Fiction/The%20Big%20Windup.png)][the-big-windup] | [![Ouran High School Host Club](/Assets/Grids/Favorite-Fiction/Ouran%20High%20School%20Host%20Club.png)][host-club] |
+| :---: | :---: | :---: |
+| [![Pokemon The Animated Series (seasons 1-3)](/Assets/Grids/Favorite-Fiction/Pokemon%20-%20The%20Kanto%20Region.png)][pokemon] |  | [![Tokyo Ghoul (Manga)](/Assets/Grids/Favorite-Fiction/Tokyo%20Ghoul.png)][tokyo-ghoul] |
+
+## Gino's Favorite Webcomics ##
+
+- His favorite webcomics are [Jackson's Diary][jacksons-diary], [Shelter][shelter], [Brass and Sass][brass-and-sass], [ILY Lily][ily-lily], [Fictional Skin][fictional-skin], [Morgana and Oz][morgana-and-oz], [Exchange][exchange], and [Lumine][lumine], and [XKCD](https://xkcd.com).
 
 ## Gino's Favorite Video-games ##
 
@@ -125,7 +133,9 @@
 [tokyo-ghoul]: https://tokyoghoul.online/
 [host-club]: https://www.netflix.com/title/70205014
 [pokemon]: https://watch.pokemon.com/en-us/
-[avatar]: https://www.netflix.com/title/70142405
+[avatar]: https://www.netflix.com/title/70142405\
+
+
 
 [jacksons-diary]: https://www.webtoons.com/en/supernatural/jacksons-diary/list
 [shelter]: https://tapas.io/series/SHELTER3
