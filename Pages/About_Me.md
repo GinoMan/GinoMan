@@ -5,16 +5,25 @@
 - According to his son, he gives really warm hugs and is so silly.
 - He studied Latin for four years, played Magic the Gathering, Dungeons and Dragons, Pokemon Trading Card Game, lots of video games, performed in and enjoyed watching shows on stage in High School. In short, he's a nerd.
 - He's a fan of manga and anime, especially the art style; his favorites are below.
+- He also really likes webcomics.
 
 ## Gino's Favorite Anime/Manga ##
 
 | [![Avatar: The Last Airbender](/Assets/Grids/Favorite-Fiction/Avatar%20-%20The%20Last%20Airbender.png)][avatar] | [![The Big Windup](/Assets/Grids/Favorite-Fiction/The%20Big%20Windup.png)][the-big-windup] | [![Ouran High School Host Club](/Assets/Grids/Favorite-Fiction/Ouran%20High%20School%20Host%20Club.png)][host-club] |
 | :---: | :---: | :---: |
-| [![Pokemon The Animated Series (seasons 1-3)](/Assets/Grids/Favorite-Fiction/Pokemon%20-%20The%20Kanto%20Region.png)][pokemon] |  | [![Tokyo Ghoul (Manga)](/Assets/Grids/Favorite-Fiction/Tokyo%20Ghoul.png)][tokyo-ghoul] |
+| Avatar - The Last Airbender | The Big Windup | Ouran High School Host Club |
+| [![Pokemon The Animated Series (seasons 1-3)](/Assets/Grids/Favorite-Fiction/Pokemon%20-%20The%20Kanto%20Region.png)][pokemon] | [![Tokyo Ghoul (Manga)](/Assets/Grids/Favorite-Fiction/Tokyo%20Ghoul.png)][tokyo-ghoul] |  |
+| Pokemon The Animated Series - Kanto Region | Tokyo Ghoul (Manga) |  |
 
 ## Gino's Favorite Webcomics ##
 
-- His favorite webcomics are [Jackson's Diary][jacksons-diary], [Shelter][shelter], [Brass and Sass][brass-and-sass], [ILY Lily][ily-lily], [Fictional Skin][fictional-skin], [Morgana and Oz][morgana-and-oz], [Exchange][exchange], and [Lumine][lumine], and [XKCD](https://xkcd.com).
+| [![Brass and Sass](/Assets/Grids/Favorite-Fiction/Brass%20and%20Sass.png)](brass-and-sass) | [![Exchange](/Assets/Grids/Favorite-Fiction/Exchange%20Grid.png)](exchange) | [![Fictional Skin](/Assets/Grids/Favorite-Fiction/Fictional%20Skin.png)](fictional-skin)
+| :---: | :---: | :---: |
+| Brass and Sass | Exchange | Fictional Skin |
+| [![ILY Lily](/Assets/Grids/Favorite-Fiction/ILY%20Lily.png)](ily-lily) | [![Jackson's Diary](/Assets/Grids/Favorite-Fiction/Jackson's%20Diary.png)](jacksons-diary) | [![Lumine](/Assets/Grids/Favorite-Fiction/Lumine.png)](lumine) |
+| ILY Lily | Jackson's Diary | Lumine |
+| [![Morgana and Oz](/Assets/Grids/Favorite-Fiction/Morgana%20and%20Oz.png)](morgana-and-oz) | [![Shelter](/Assets/Grids/Favorite-Fiction/Shelter.png)](shelter) | [![XKCD](/Assets/Grids/Favorite-Fiction/XKCD.png)](https://xkcd.com) |
+| Morgana and Oz | Shelter | XKCD |
 
 ## Gino's Favorite Video-games ##
 
