@@ -9,20 +9,20 @@
 
 ## Gino's Favorite Anime/Manga ##
 
-| [![Avatar: The Last Airbender](/Assets/Grids/Favorite-Fiction/Avatar%20-%20The%20Last%20Airbender.png)][avatar] | [![The Big Windup](/Assets/Grids/Favorite-Fiction/The%20Big%20Windup.png)][the-big-windup] | [![Ouran High School Host Club](/Assets/Grids/Favorite-Fiction/Ouran%20High%20School%20Host%20Club.png)][host-club] |
+| [![Avatar: The Last Airbender](/Assets/Grids/Favorite-Fiction/Avatar%20-%20The%20Last%20Airbender.png)][avatar] | [![Azumanga Daioh](/Assets/Grids/Favorite-Fiction/Azumanga%20Daioh.png)][azumanga-daioh] | [![The Big Windup](/Assets/Grids/Favorite-Fiction/The%20Big%20Windup.png)][the-big-windup] |
 | :---: | :---: | :---: |
-| Avatar - The Last Airbender | The Big Windup | Ouran High School Host Club |
-| [![Pokemon The Animated Series (seasons 1-3)](/Assets/Grids/Favorite-Fiction/Pokemon%20-%20The%20Kanto%20Region.png)][pokemon] | [![Tokyo Ghoul (Manga)](/Assets/Grids/Favorite-Fiction/Tokyo%20Ghoul.png)][tokyo-ghoul] |  |
-| Pokemon The Animated Series - Kanto Region | Tokyo Ghoul (Manga) |  |
+| Avatar - The Last Airbender | Azumanga Daioh | The Big Windup |
+| [![Ouran High School Host Club](/Assets/Grids/Favorite-Fiction/Ouran%20High%20School%20Host%20Club.png)][host-club] | [![Pokemon The Animated Series (seasons 1-3)](/Assets/Grids/Favorite-Fiction/Pokemon%20-%20The%20Kanto%20Region.png)][pokemon] | [![Tokyo Ghoul (Manga)](/Assets/Grids/Favorite-Fiction/Tokyo%20Ghoul.png)][tokyo-ghoul] |
+| Ouran High School Host Club | Pokemon The Animated Series - Kanto Region | Tokyo Ghoul (Manga) |
 
 ## Gino's Favorite Webcomics ##
 
-| [![Brass and Sass](/Assets/Grids/Favorite-Fiction/Brass%20and%20Sass.png)](brass-and-sass) | [![Exchange](/Assets/Grids/Favorite-Fiction/Exchange%20Grid.png)](exchange) | [![Fictional Skin](/Assets/Grids/Favorite-Fiction/Fictional%20Skin.png)](fictional-skin)
+| [![Brass and Sass](/Assets/Grids/Favorite-Fiction/Brass%20and%20Sass.png)][brass-and-sass] | [![Exchange](/Assets/Grids/Favorite-Fiction/Exchange%20Grid.png)][exchange] | [![Fictional Skin](/Assets/Grids/Favorite-Fiction/Fictional%20Skin.png)][fictional-skin]
 | :---: | :---: | :---: |
 | Brass and Sass | Exchange | Fictional Skin |
-| [![ILY Lily](/Assets/Grids/Favorite-Fiction/ILY%20Lily.png)](ily-lily) | [![Jackson's Diary](/Assets/Grids/Favorite-Fiction/Jackson's%20Diary.png)](jacksons-diary) | [![Lumine](/Assets/Grids/Favorite-Fiction/Lumine.png)](lumine) |
+| [![ILY Lily](/Assets/Grids/Favorite-Fiction/ILY%20Lily.png)][ily-lily] | [![Jackson's Diary](/Assets/Grids/Favorite-Fiction/Jackson's%20Diary.png)][jacksons-diary] | [![Lumine](/Assets/Grids/Favorite-Fiction/Lumine.png)][lumine] |
 | ILY Lily | Jackson's Diary | Lumine |
-| [![Morgana and Oz](/Assets/Grids/Favorite-Fiction/Morgana%20and%20Oz.png)](morgana-and-oz) | [![Shelter](/Assets/Grids/Favorite-Fiction/Shelter.png)](shelter) | [![XKCD](/Assets/Grids/Favorite-Fiction/XKCD.png)](https://xkcd.com) |
+| [![Morgana and Oz](/Assets/Grids/Favorite-Fiction/Morgana%20and%20Oz.png)][morgana-and-oz] | [![Shelter](/Assets/Grids/Favorite-Fiction/Shelter.png)][shelter] | [![XKCD](/Assets/Grids/Favorite-Fiction/XKCD.png)][xkcd] |
 | Morgana and Oz | Shelter | XKCD |
 
 ## Gino's Favorite Video-games ##
@@ -143,8 +143,7 @@
 [host-club]: https://www.netflix.com/title/70205014
 [pokemon]: https://watch.pokemon.com/en-us/
 [avatar]: https://www.netflix.com/title/70142405\
-
-
+[azumanga-daioh]: https://archive.org/details/azumanga-daioh-full-series-english-sub
 
 [jacksons-diary]: https://www.webtoons.com/en/supernatural/jacksons-diary/list
 [shelter]: https://tapas.io/series/SHELTER3
@@ -154,3 +153,4 @@
 [morgana-and-oz]: https://www.webtoons.com/en/fantasy/morgana-and-oz/list
 [exchange]: https://tapas.io/series/Exchange
 [lumine]: https://www.webtoons.com/en/fantasy/lumine/list
+[xkcd]: https://xkcd.com
