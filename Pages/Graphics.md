@@ -188,3 +188,18 @@ I generated this diagram for everyone confused by the documentation for VSCode S
 [grids83]: /Assets/Grids/To%20Leave%20Grid%2032-8.png
 [grids84]: /Assets/Grids/To%20Leave%20Grid%2032-9.png
 [grids85]: /Assets/Grids/To%20Leave%20Grid%2032-10.png
+
+[the-big-windup]: https://www.crunchyroll.com/series/GP5HJ8EDW/big-windup
+[tokyo-ghoul]: https://tokyoghoul.online/
+[host-club]: https://www.netflix.com/title/70205014
+[pokemon]: https://watch.pokemon.com/en-us/
+[avatar]: https://www.netflix.com/title/70142405\
+
+[jacksons-diary]: https://www.webtoons.com/en/supernatural/jacksons-diary/list
+[shelter]: https://tapas.io/series/SHELTER3
+[brass-and-sass]: https://www.webtoons.com/en/romance/brass-and-sass/list
+[ily-lily]: https://www.webtoons.com/en/challenge/ily-lily-/list?title_no=333916
+[fictional-skin]: https://www.webtoons.com/en/drama/fictional-skin/list
+[morgana-and-oz]: https://www.webtoons.com/en/fantasy/morgana-and-oz/list
+[exchange]: https://tapas.io/series/Exchange
+[lumine]: https://www.webtoons.com/en/fantasy/lumine/list
