@@ -17,13 +17,23 @@
 
 ## Gino's Favorite Webcomics ##
 
-| [![Brass and Sass](/Assets/Grids/Favorite-Fiction/Brass%20and%20Sass.png)][brass-and-sass] | [![Exchange](/Assets/Grids/Favorite-Fiction/Exchange%20Grid.png)][exchange] | [![Fictional Skin](/Assets/Grids/Favorite-Fiction/Fictional%20Skin.png)][fictional-skin]
+| [![The Blacksmith Shop](/Assets/Grids/Favorite-Fiction/The%20Blacksmith%20Shop.png)][the-blacksmith-shop] | [![Brass and Sass](/Assets/Grids/Favorite-Fiction/Brass%20and%20Sass.png)][brass-and-sass] | [![Colorless](/Assets/Grids/Favorite-Fiction/Colorless%20-%20Crazy%20Joki.png)][colorless] | 
 | :---: | :---: | :---: |
-| Brass and Sass | Exchange | Fictional Skin |
-| [![ILY Lily](/Assets/Grids/Favorite-Fiction/ILY%20Lily.png)][ily-lily] | [![Jackson's Diary](/Assets/Grids/Favorite-Fiction/Jackson's%20Diary.png)][jacksons-diary] | [![Lumine](/Assets/Grids/Favorite-Fiction/Lumine.png)][lumine] |
-| ILY Lily | Jackson's Diary | Lumine |
-| [![Morgana and Oz](/Assets/Grids/Favorite-Fiction/Morgana%20and%20Oz.png)][morgana-and-oz] | [![Shelter](/Assets/Grids/Favorite-Fiction/Shelter.png)][shelter] | [![XKCD](/Assets/Grids/Favorite-Fiction/XKCD.png)][xkcd] |
-| Morgana and Oz | Shelter | XKCD |
+| The Blacksmith Shop | Brass and Sass | Colorless | 
+| [![Deryli and the Magician's Key](/Assets/Grids/Favorite-Fiction/Deryli%20and%20the%20Magician's%20Key.png)][deryli-and-the-magicians-key] | [![The D!ckheads](/Assets/Grids/Favorite-Fiction/Dickheads.png)][the-dickheads] | [![Exchange](/Assets/Grids/Favorite-Fiction/Exchange%20Grid.png)][exchange] | 
+| Deryli and the Magician's Key | The D!ckheads | Exchange | 
+| [![Fictional Skin](/Assets/Grids/Favorite-Fiction/Fictional%20Skin.png)][fictional-skin] | [![Goth Girl & The Jock](/Assets/Grids/Favorite-Fiction/Goth%20Girl%20and%20the%20Jock%20Head%20Pats.png)][goth-girl-and-the-jock] | [![Humor Me](/Assets/Grids/Favorite-Fiction/Humor%20Me.png)][humor-me] | 
+| Fictional Skin | Goth Girl & The Jock | Humor me | 
+| [![ILY Lily](/Assets/Grids/Favorite-Fiction/ILY%20Lily.png)][ily-lily] | [![Jackson's Diary](/Assets/Grids/Favorite-Fiction/Jackson's%20Diary.png)][jacksons-diary] | [![Love On Target](/Assets/Grids/Favorite-Fiction/Love%20on%20Target.png)][love-on-target] | 
+| ILY Lily | Jackson's Diary | Love On Target | 
+| [![Lumine](/Assets/Grids/Favorite-Fiction/Lumine.png)][lumine] | [![Morgana and Oz](/Assets/Grids/Favorite-Fiction/Morgana%20and%20Oz.png)][morgana-and-oz] | [![My Giant Nerd Boyfriend](/Assets/Grids/Favorite-Fiction/My%20Giant%20Nerd%20Boyfriend.png)][my-giant-nerd-boyfriend] | 
+| Lumine | Morgana and Oz | My Giant Nerd Boyfriend | 
+| [![Nerd and Jock](/Assets/Grids/Favorite-Fiction/Nerd%20and%20Jock%20-%20Vingettes.png)][nerd-and-jock] | [![Rebirth](/Assets/Grids/Favorite-Fiction/Rebirth.png)][rebirth] | [![Shelter](/Assets/Grids/Favorite-Fiction/Shelter.png)][shelter] | 
+| Nerd and Jock | Rebirth | Shelter | 
+| [![The Spectrum of Us](/Assets/Grids/Favorite-Fiction/The%20Spectrum%20of%20Us.png)][the-spectrum-of-us] | [![Spellward Bound](/Assets/Grids/Favorite-Fiction/Spellward%20Bound.png)][spellward-bound] | [![Villain with a Crush](/Assets/Grids/Favorite-Fiction/Villian%20With%20a%20Crush%20-%20Rosa%20with%20Mask%20against%20wall.png)][villain-with-a-crush] | 
+| The Spectrum of Us | Spellward Bound | Villain with a Crush | 
+|  | [![XKCD](/Assets/Grids/Favorite-Fiction/XKCD.png)][xkcd] |  |
+|  | XKCD |  |
 
 ## Gino's Favorite Video-games ##
 
@@ -145,12 +155,25 @@
 [avatar]: https://www.netflix.com/title/70142405\
 [azumanga-daioh]: https://archive.org/details/azumanga-daioh-full-series-english-sub
 
-[jacksons-diary]: https://www.webtoons.com/en/supernatural/jacksons-diary/list
-[shelter]: https://tapas.io/series/SHELTER3
+[the-blacksmith-shop]: https://www.webtoons.com/en/canvas/the-blacksmith-shop/list
 [brass-and-sass]: https://www.webtoons.com/en/romance/brass-and-sass/list
-[ily-lily]: https://www.webtoons.com/en/challenge/ily-lily-/list?title_no=333916
-[fictional-skin]: https://www.webtoons.com/en/drama/fictional-skin/list
-[morgana-and-oz]: https://www.webtoons.com/en/fantasy/morgana-and-oz/list
+[colorless]: https://www.webtoons.com/en/canvas/colorless/list
+[deryli-and-the-magicians-key]: https://tapas.io/series/deryli
+[the-dickheads]: https://www.webtoons.com/en/romance/the-dickheads/list
 [exchange]: https://tapas.io/series/Exchange
+[fictional-skin]: https://www.webtoons.com/en/drama/fictional-skin/list
+[goth-girl-and-the-jock]: https://www.webtoons.com/en/canvas/goth-girl-the-jock/list?title_no=764411
+[humor-me]: https://www.webtoons.com/en/canvas/humor-me/list
+[ily-lily]: https://www.webtoons.com/en/challenge/ily-lily-/list
+[jacksons-diary]: https://www.webtoons.com/en/supernatural/jacksons-diary/list
+[love-on-target]: https://www.webtoons.com/en/comedy/love-on-target/list
 [lumine]: https://www.webtoons.com/en/fantasy/lumine/list
+[morgana-and-oz]: https://www.webtoons.com/en/fantasy/morgana-and-oz/list
+[my-giant-nerd-boyfriend]: https://www.webtoons.com/en/slice-of-life/my-giant-nerd-boyfriend/list
+[nerd-and-jock]: https://www.webtoons.com/en/canvas/nerd-and-jock/list
+[rebirth]: https://www.webtoons.com/en/sf/rebirth/list
+[shelter]: https://tapas.io/series/SHELTER3
+[the-spectrum-of-us]: https://www.webtoons.com/en/canvas/the-spectrum-of-us/list
+[spellward-bound]: https://www.webtoons.com/en/fantasy/spellward-bound/list
+[villain-with-a-crush]: https://www.webtoons.com/en/romance/villain-with-a-crush/list
 [xkcd]: https://xkcd.com

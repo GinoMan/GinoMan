@@ -49,26 +49,28 @@ To Leave, the game, was missing grids but the makers had created several wallpap
 | ![To Leave][grids80] | ![To Leave][grids81] | ![To Leave][grids82] |
 | ![To Leave][grids83] | ![To Leave][grids84] | ![To Leave][grids85] |
 
-
 You can find more of my Steam-grid work [here](https://www.steamgriddb.com/profile/76561197998525805)
 
-## Anime/Manga and Webcomic Banners ##
+### Anime/Manga ###
 
-| [![Avatar: The Last Airbender](/Assets/Grids/Favorite-Fiction/Avatar%20-%20The%20Last%20Airbender.png)][avatar] | [![Azumanga Daioh](/Assets/Grids/Favorite-Fiction/Azumanga%20Daioh.png)][azumanga-daioh] | [![The Big Windup](/Assets/Grids/Favorite-Fiction/The%20Big%20Windup.png)][the-big-windup] |
+| [![Avatar: The Last Airbender][anime01]][avatar] | [![Azumanga Daioh][anime02]][azumanga-daioh] | [![The Big Windup][anime03]][the-big-windup] |
 | :---: | :---: | :---: |
-| Avatar - The Last Airbender | Azumanga Daioh | The Big Windup |
-| [![Ouran High School Host Club](/Assets/Grids/Favorite-Fiction/Ouran%20High%20School%20Host%20Club.png)][host-club] | [![Pokemon The Animated Series (seasons 1-3)](/Assets/Grids/Favorite-Fiction/Pokemon%20-%20The%20Kanto%20Region.png)][pokemon] | [![Tokyo Ghoul (Manga)](/Assets/Grids/Favorite-Fiction/Tokyo%20Ghoul.png)][tokyo-ghoul] |
-| Ouran High School Host Club | Pokemon The Animated Series - Kanto Region | Tokyo Ghoul (Manga) |
+| [![Ouran High School Host Club][anime04]][host-club] | [![Pokemon The Animated Series (seasons 1-3)][anime05]][pokemon] | [![Tokyo Ghoul (Manga)][anime06]][tokyo-ghoul] |
 
 ### Webcomics ###
 
-| [![Brass and Sass](/Assets/Grids/Favorite-Fiction/Brass%20and%20Sass.png)][brass-and-sass] | [![Exchange](/Assets/Grids/Favorite-Fiction/Exchange%20Grid.png)][exchange] | [![Fictional Skin](/Assets/Grids/Favorite-Fiction/Fictional%20Skin.png)][fictional-skin]
+| [![The Blacksmith Shop][webcomic01]][the-blacksmith-shop] | [![Brass and Sass][webcomic02]][brass-and-sass] | [![Colorless][webcomic03]][colorless] | 
 | :---: | :---: | :---: |
-| Brass and Sass | Exchange | Fictional Skin |
-| [![ILY Lily](/Assets/Grids/Favorite-Fiction/ILY%20Lily.png)][ily-lily] | [![Jackson's Diary](/Assets/Grids/Favorite-Fiction/Jackson's%20Diary.png)][jacksons-diary] | [![Lumine](/Assets/Grids/Favorite-Fiction/Lumine.png)][lumine] |
-| ILY Lily | Jackson's Diary | Lumine |
-| [![Morgana and Oz](/Assets/Grids/Favorite-Fiction/Morgana%20and%20Oz.png)][morgana-and-oz] | [![Shelter](/Assets/Grids/Favorite-Fiction/Shelter.png)][shelter] | [![XKCD](/Assets/Grids/Favorite-Fiction/XKCD.png)][xkcd] |
-| Morgana and Oz | Shelter | XKCD |
+| [![Colorless][webcomic04]][colorless] | [![Colorless][webcomic05]][colorless] | [![Colorless][webcomic06]][colorless] | 
+| [![Colorless][webcomic07]][colorless] | [![Deryli and the Magician's Key][webcomic08]][deryli-and-the-magicians-key] | [![The D!ckheads][webcomic09]][the-dickheads] | 
+| [![Exchange][webcomic10]][exchange] | [![Fictional Skin][webcomic11]][fictional-skin] | [![Goth Girl & The Jock][webcomic12]][goth-girl-and-the-jock] | 
+| [![Goth Girl & The Jock][webcomic13]][goth-girl-and-the-jock] | [![Humor Me][webcomic14]][humor-me] | [![ILY Lily][webcomic15]][ily-lily] | 
+| [![Jackson's Diary][webcomic16]][jacksons-diary] | [![Love On Target][webcomic17]][love-on-target] | [![Lumine][webcomic18]][lumine] | 
+| [![Morgana and Oz][webcomic19]][morgana-and-oz] | [![My Giant Nerd Boyfriend][webcomic20]][my-giant-nerd-boyfriend] | [![Nerd and Jock][webcomic21]][nerd-and-jock] | 
+| [![Nerd and Jock][webcomic22]][nerd-and-jock] | [![Nerd and Jock][webcomic23]][nerd-and-jock] | [![Rebirth][webcomic24]][rebirth] | 
+| [![Shelter][webcomic25]][shelter] | [![The Spectrum of Us][webcomic26]][the-spectrum-of-us] | [![Spellward Bound][webcomic27]][spellward-bound] | 
+| [![Villain with a Crush][webcomic28]][villain-with-a-crush] | [![Villain with a Crush][webcomic29]][villain-with-a-crush] | [![Villain with a Crush][webcomic30]][villain-with-a-crush] | 
+|  | [![XKCD][webcomic31]][xkcd] |  |
 
 ## Social Media Banners ##
 
@@ -93,6 +95,8 @@ This UI was built to log phone calls and the machines they were associated with 
 <div align="center">
 <img alt="Call Recorder UI Mockup" src="/Assets/UIs/2020-10-15%2021_47_35-Support%20Call%20Logger.png" />
 </div>
+
+------------------------
 
 ## Diagrams ##
 
@@ -189,6 +193,45 @@ I generated this diagram for everyone confused by the documentation for VSCode S
 [grids84]: /Assets/Grids/To%20Leave%20Grid%2032-9.png
 [grids85]: /Assets/Grids/To%20Leave%20Grid%2032-10.png
 
+[anime01]: /Assets/Grids/Favorite-Fiction/Avatar%20-%20The%20Last%20Airbender.png
+[anime02]: /Assets/Grids/Favorite-Fiction/Azumanga%20Daioh.png
+[anime03]: /Assets/Grids/Favorite-Fiction/The%20Big%20Windup.png)
+[anime04]: /Assets/Grids/Favorite-Fiction/Ouran%20High%20School%20Host%20Club.png
+[anime05]: /Assets/Grids/Favorite-Fiction/Pokemon%20-%20The%20Kanto%20Region.png
+[anime06]: /Assets/Grids/Favorite-Fiction/Tokyo%20Ghoul.png
+
+[webcomic01]: /Assets/Grids/Favorite-Fiction/The%20Blacksmith%20Shop.png
+[webcomic02]: /Assets/Grids/Favorite-Fiction/Brass%20and%20Sass.png
+[webcomic03]: /Assets/Grids/Favorite-Fiction/Colorless%20-%20Angry%20Joki.png
+[webcomic04]: /Assets/Grids/Favorite-Fiction/Colorless%20-%20Crazy%20Joki%20with%20Bat.png
+[webcomic05]: /Assets/Grids/Favorite-Fiction/Colorless%20-%20Crazy%20Joki.png
+[webcomic06]: /Assets/Grids/Favorite-Fiction/Colorless%20-%20Hypnotic%20Joki.png
+[webcomic07]: /Assets/Grids/Favorite-Fiction/Colorless%20-%20Joki%20Gets%20a%20New%20Head.png
+[webcomic08]: /Assets/Grids/Favorite-Fiction/Deryli%20and%20the%20Magician's%20Key.png
+[webcomic09]: /Assets/Grids/Favorite-Fiction/Dickheads.png
+[webcomic10]: /Assets/Grids/Favorite-Fiction/Exchange%20Grid.png
+[webcomic11]: /Assets/Grids/Favorite-Fiction/Fictional%20Skin.png
+[webcomic12]: /Assets/Grids/Favorite-Fiction/Goth%20Girl%20and%20the%20Jock%20-%20Girl%20looks%20back,%20Jock%20Embarrassed.png
+[webcomic13]: /Assets/Grids/Favorite-Fiction/Goth%20Girl%20and%20the%20Jock%20Head%20Pats.png
+[webcomic14]: /Assets/Grids/Favorite-Fiction/Humor%20Me.png
+[webcomic15]: /Assets/Grids/Favorite-Fiction/ILY%20Lily.png
+[webcomic16]: /Assets/Grids/Favorite-Fiction/Jackson's%20Diary.png
+[webcomic17]: /Assets/Grids/Favorite-Fiction/Love%20on%20Target.png
+[webcomic18]: /Assets/Grids/Favorite-Fiction/Lumine.png
+[webcomic19]: /Assets/Grids/Favorite-Fiction/Morgana%20and%20Oz.png
+[webcomic20]: /Assets/Grids/Favorite-Fiction/My%20Giant%20Nerd%20Boyfriend.png
+[webcomic21]: /Assets/Grids/Favorite-Fiction/Nerd%20and%20Jock%20-%20Jock%20Failed.png
+[webcomic22]: /Assets/Grids/Favorite-Fiction/Nerd%20and%20Jock%20-%20Stargazing.png
+[webcomic23]: /Assets/Grids/Favorite-Fiction/Nerd%20and%20Jock%20-%20Vingettes.png
+[webcomic24]: /Assets/Grids/Favorite-Fiction/Rebirth.png
+[webcomic25]: /Assets/Grids/Favorite-Fiction/Shelter.png
+[webcomic26]: /Assets/Grids/Favorite-Fiction/The%20Spectrum%20of%20Us.png
+[webcomic27]: /Assets/Grids/Favorite-Fiction/Spellward%20Bound.png
+[webcomic28]: /Assets/Grids/Favorite-Fiction/Villian%20With%20a%20Crush%20-%20Rosa%20against%20wall.png
+[webcomic29]: /Assets/Grids/Favorite-Fiction/Villian%20With%20a%20Crush%20-%20Rosa%20with%20Bun%20against%20wall.png
+[webcomic30]: /Assets/Grids/Favorite-Fiction/Villian%20With%20a%20Crush%20-%20Rosa%20with%20Mask%20against%20wall.png
+[webcomic31]: /Assets/Grids/Favorite-Fiction/XKCD.png
+
 [the-big-windup]: https://www.crunchyroll.com/series/GP5HJ8EDW/big-windup
 [tokyo-ghoul]: https://tokyoghoul.online/
 [host-club]: https://www.netflix.com/title/70205014
@@ -196,12 +239,25 @@ I generated this diagram for everyone confused by the documentation for VSCode S
 [avatar]: https://www.netflix.com/title/70142405\
 [azumanga-daioh]: https://archive.org/details/azumanga-daioh-full-series-english-sub
 
-[jacksons-diary]: https://www.webtoons.com/en/supernatural/jacksons-diary/list
-[shelter]: https://tapas.io/series/SHELTER3
+[the-blacksmith-shop]: https://www.webtoons.com/en/canvas/the-blacksmith-shop/list
 [brass-and-sass]: https://www.webtoons.com/en/romance/brass-and-sass/list
-[ily-lily]: https://www.webtoons.com/en/challenge/ily-lily-/list?title_no=333916
-[fictional-skin]: https://www.webtoons.com/en/drama/fictional-skin/list
-[morgana-and-oz]: https://www.webtoons.com/en/fantasy/morgana-and-oz/list
+[colorless]: https://www.webtoons.com/en/canvas/colorless/list
+[deryli-and-the-magicians-key]: https://tapas.io/series/deryli
+[the-dickheads]: https://www.webtoons.com/en/romance/the-dickheads/list
 [exchange]: https://tapas.io/series/Exchange
+[fictional-skin]: https://www.webtoons.com/en/drama/fictional-skin/list
+[goth-girl-and-the-jock]: https://www.webtoons.com/en/canvas/goth-girl-the-jock/list?title_no=764411
+[humor-me]: https://www.webtoons.com/en/canvas/humor-me/list
+[ily-lily]: https://www.webtoons.com/en/challenge/ily-lily-/list
+[jacksons-diary]: https://www.webtoons.com/en/supernatural/jacksons-diary/list
+[love-on-target]: https://www.webtoons.com/en/comedy/love-on-target/list
 [lumine]: https://www.webtoons.com/en/fantasy/lumine/list
+[morgana-and-oz]: https://www.webtoons.com/en/fantasy/morgana-and-oz/list
+[my-giant-nerd-boyfriend]: https://www.webtoons.com/en/slice-of-life/my-giant-nerd-boyfriend/list
+[nerd-and-jock]: https://www.webtoons.com/en/canvas/nerd-and-jock/list
+[rebirth]: https://www.webtoons.com/en/sf/rebirth/list
+[shelter]: https://tapas.io/series/SHELTER3
+[the-spectrum-of-us]: https://www.webtoons.com/en/canvas/the-spectrum-of-us/list
+[spellward-bound]: https://www.webtoons.com/en/fantasy/spellward-bound/list
+[villain-with-a-crush]: https://www.webtoons.com/en/romance/villain-with-a-crush/list
 [xkcd]: https://xkcd.com
