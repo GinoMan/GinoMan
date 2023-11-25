@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD013 -->
+
 # Technologies I Know #
 
 ## Programming and Data Languages ##

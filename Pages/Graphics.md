@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD013 -->
+
 # Graphic Design #
 
 ## Print ##
@@ -49,7 +51,7 @@ To Leave, the game, was missing grids but the makers had created several wallpap
 | ![To Leave][grids80] | ![To Leave][grids81] | ![To Leave][grids82] |
 | ![To Leave][grids83] | ![To Leave][grids84] | ![To Leave][grids85] |
 
-You can find more of my Steam-grid work [here](https://www.steamgriddb.com/profile/76561197998525805)
+You can find more of my Steam-grid work here: [![SteamGridDB | GinoMan2440](https://img.shields.io/badge/SteamGridDB-GinoMan2440-32414c?logo=steamdb&logoColor=5fb4f0&style=flat)](https://www.steamgriddb.com/profile/76561197998525805)
 
 ### Anime/Manga I like ###
 
@@ -59,18 +61,18 @@ You can find more of my Steam-grid work [here](https://www.steamgriddb.com/profi
 
 ### Webcomics I like ###
 
-| [![The Blacksmith Shop][webcomic01]][the-blacksmith-shop] | [![Brass and Sass][webcomic02]][brass-and-sass] | [![Colorless][webcomic03]][colorless] | 
+| [![The Blacksmith Shop][image-webcomic01]][the-blacksmith-shop] | [![Brass and Sass][image-webcomic02]][brass-and-sass] | [![Colorless][image-webcomic03]][colorless] |
 | :---: | :---: | :---: |
-| [![Colorless][webcomic04]][colorless] | [![Colorless][webcomic05]][colorless] | [![Colorless][webcomic06]][colorless] | 
-| [![Colorless][webcomic07]][colorless] | [![Deryli and the Magician's Key][webcomic08]][deryli-and-the-magicians-key] | [![The D!ckheads][webcomic09]][the-dickheads] | 
-| [![Exchange][webcomic10]][exchange] | [![Fictional Skin][webcomic11]][fictional-skin] | [![Goth Girl & The Jock][webcomic12]][goth-girl-and-the-jock] | 
-| [![Goth Girl & The Jock][webcomic13]][goth-girl-and-the-jock] | [![Humor Me][webcomic14]][humor-me] | [![ILY Lily][webcomic15]][ily-lily] | 
-| [![Jackson's Diary][webcomic16]][jacksons-diary] | [![Love On Target][webcomic17]][love-on-target] | [![Lumine][webcomic18]][lumine] | 
-| [![Morgana and Oz][webcomic19]][morgana-and-oz] | [![My Giant Nerd Boyfriend][webcomic20]][my-giant-nerd-boyfriend] | [![Nerd and Jock][webcomic21]][nerd-and-jock] | 
-| [![Nerd and Jock][webcomic22]][nerd-and-jock] | [![Nerd and Jock][webcomic23]][nerd-and-jock] | [![Rebirth][webcomic24]][rebirth] | 
-| [![Shelter][webcomic25]][shelter] | [![The Spectrum of Us][webcomic26]][the-spectrum-of-us] | [![Spellward Bound][webcomic27]][spellward-bound] | 
-| [![Villain with a Crush][webcomic28]][villain-with-a-crush] | [![Villain with a Crush][webcomic29]][villain-with-a-crush] | [![Villain with a Crush][webcomic30]][villain-with-a-crush] | 
-|  | [![XKCD][webcomic31]][xkcd] |  |
+| [![Colorless][image-webcomic04]][colorless] | [![Colorless][image-webcomic05]][colorless] | [![Colorless][image-webcomic06]][colorless] |
+| [![Colorless][image-webcomic07]][colorless] | [![Deryli and the Magician's Key][image-webcomic08]][deryli-and-the-magicians-key] | [![The D!ckheads][image-webcomic09]][the-dickheads] |
+| [![Exchange][image-webcomic10]][exchange] | [![Fictional Skin][image-webcomic11]][fictional-skin] | [![Goth Girl & The Jock][image-webcomic12]][goth-girl-and-the-jock] |
+| [![Goth Girl & The Jock][image-webcomic13]][goth-girl-and-the-jock] | [![Humor Me][image-webcomic14]][humor-me] | [![ILY Lily][image-webcomic15]][ily-lily] |
+| [![Jackson's Diary][image-webcomic16]][jacksons-diary] | [![Love On Target][image-webcomic17]][love-on-target] | [![Lumine][image-webcomic18]][lumine] |
+| [![Morgana and Oz][image-webcomic19]][morgana-and-oz] | [![My Giant Nerd Boyfriend][image-webcomic20]][my-giant-nerd-boyfriend] | [![Nerd and Jock][image-webcomic21]][nerd-and-jock] |
+| [![Nerd and Jock][image-webcomic22]][nerd-and-jock] | [![Nerd and Jock][image-webcomic23]][nerd-and-jock] | [![Rebirth][image-webcomic24]][rebirth] |
+| [![Shelter][image-webcomic25]][shelter] | [![The Spectrum of Us][image-webcomic26]][the-spectrum-of-us] | [![Spellward Bound][image-webcomic27]][spellward-bound] |
+| [![Villain with a Crush][image-webcomic28]][villain-with-a-crush] | [![Villain with a Crush][image-webcomic29]][villain-with-a-crush] | [![Villain with a Crush][image-webcomic30]][villain-with-a-crush] |
+|  | [![XKCD][image-webcomic31]][xkcd] |  |
 
 ## Social Media Banners ##
 
@@ -200,37 +202,37 @@ I generated this diagram for everyone confused by the documentation for VSCode S
 [anime05]: /Assets/Grids/Favorite-Fiction/Pokemon%20-%20The%20Kanto%20Region.png
 [anime06]: /Assets/Grids/Favorite-Fiction/Tokyo%20Ghoul.png
 
-[webcomic01]: /Assets/Grids/Favorite-Fiction/The%20Blacksmith%20Shop.png
-[webcomic02]: /Assets/Grids/Favorite-Fiction/Brass%20and%20Sass.png
-[webcomic03]: /Assets/Grids/Favorite-Fiction/Colorless%20-%20Angry%20Joki.png
-[webcomic04]: /Assets/Grids/Favorite-Fiction/Colorless%20-%20Crazy%20Joki%20with%20Bat.png
-[webcomic05]: /Assets/Grids/Favorite-Fiction/Colorless%20-%20Crazy%20Joki.png
-[webcomic06]: /Assets/Grids/Favorite-Fiction/Colorless%20-%20Hypnotic%20Joki.png
-[webcomic07]: /Assets/Grids/Favorite-Fiction/Colorless%20-%20Joki%20Gets%20a%20New%20Head.png
-[webcomic08]: /Assets/Grids/Favorite-Fiction/Deryli%20and%20the%20Magician's%20Key.png
-[webcomic09]: /Assets/Grids/Favorite-Fiction/Dickheads.png
-[webcomic10]: /Assets/Grids/Favorite-Fiction/Exchange%20Grid.png
-[webcomic11]: /Assets/Grids/Favorite-Fiction/Fictional%20Skin.png
-[webcomic12]: /Assets/Grids/Favorite-Fiction/Goth%20Girl%20and%20the%20Jock%20-%20Girl%20looks%20back,%20Jock%20Embarrassed.png
-[webcomic13]: /Assets/Grids/Favorite-Fiction/Goth%20Girl%20and%20the%20Jock%20Head%20Pats.png
-[webcomic14]: /Assets/Grids/Favorite-Fiction/Humor%20Me.png
-[webcomic15]: /Assets/Grids/Favorite-Fiction/ILY%20Lily.png
-[webcomic16]: /Assets/Grids/Favorite-Fiction/Jackson's%20Diary.png
-[webcomic17]: /Assets/Grids/Favorite-Fiction/Love%20on%20Target.png
-[webcomic18]: /Assets/Grids/Favorite-Fiction/Lumine.png
-[webcomic19]: /Assets/Grids/Favorite-Fiction/Morgana%20and%20Oz.png
-[webcomic20]: /Assets/Grids/Favorite-Fiction/My%20Giant%20Nerd%20Boyfriend.png
-[webcomic21]: /Assets/Grids/Favorite-Fiction/Nerd%20and%20Jock%20-%20Jock%20Failed.png
-[webcomic22]: /Assets/Grids/Favorite-Fiction/Nerd%20and%20Jock%20-%20Stargazing.png
-[webcomic23]: /Assets/Grids/Favorite-Fiction/Nerd%20and%20Jock%20-%20Vingettes.png
-[webcomic24]: /Assets/Grids/Favorite-Fiction/Rebirth.png
-[webcomic25]: /Assets/Grids/Favorite-Fiction/Shelter.png
-[webcomic26]: /Assets/Grids/Favorite-Fiction/The%20Spectrum%20of%20Us.png
-[webcomic27]: /Assets/Grids/Favorite-Fiction/Spellward%20Bound.png
-[webcomic28]: /Assets/Grids/Favorite-Fiction/Villian%20With%20a%20Crush%20-%20Rosa%20against%20wall.png
-[webcomic29]: /Assets/Grids/Favorite-Fiction/Villian%20With%20a%20Crush%20-%20Rosa%20with%20Bun%20against%20wall.png
-[webcomic30]: /Assets/Grids/Favorite-Fiction/Villian%20With%20a%20Crush%20-%20Rosa%20with%20Mask%20against%20wall.png
-[webcomic31]: /Assets/Grids/Favorite-Fiction/XKCD.png
+[image-webcomic01]: /Assets/Grids/Favorite-Fiction/The%20Blacksmith%20Shop.png
+[image-webcomic02]: /Assets/Grids/Favorite-Fiction/Brass%20and%20Sass.png
+[image-webcomic03]: /Assets/Grids/Favorite-Fiction/Colorless%20-%20Angry%20Joki.png
+[image-webcomic04]: /Assets/Grids/Favorite-Fiction/Colorless%20-%20Crazy%20Joki%20with%20Bat.png
+[image-webcomic05]: /Assets/Grids/Favorite-Fiction/Colorless%20-%20Crazy%20Joki.png
+[image-webcomic06]: /Assets/Grids/Favorite-Fiction/Colorless%20-%20Hypnotic%20Joki.png
+[image-webcomic07]: /Assets/Grids/Favorite-Fiction/Colorless%20-%20Joki%20Gets%20a%20New%20Head.png
+[image-webcomic08]: /Assets/Grids/Favorite-Fiction/Deryli%20and%20the%20Magician's%20Key.png
+[image-webcomic09]: /Assets/Grids/Favorite-Fiction/Dickheads.png
+[image-webcomic10]: /Assets/Grids/Favorite-Fiction/Exchange%20Grid.png
+[image-webcomic11]: /Assets/Grids/Favorite-Fiction/Fictional%20Skin.png
+[image-webcomic12]: /Assets/Grids/Favorite-Fiction/Goth%20Girl%20and%20the%20Jock%20-%20Girl%20looks%20back,%20Jock%20Embarrassed.png
+[image-webcomic13]: /Assets/Grids/Favorite-Fiction/Goth%20Girl%20and%20the%20Jock%20Head%20Pats.png
+[image-webcomic14]: /Assets/Grids/Favorite-Fiction/Humor%20Me.png
+[image-webcomic15]: /Assets/Grids/Favorite-Fiction/ILY%20Lily.png
+[image-webcomic16]: /Assets/Grids/Favorite-Fiction/Jackson's%20Diary.png
+[image-webcomic17]: /Assets/Grids/Favorite-Fiction/Love%20on%20Target.png
+[image-webcomic18]: /Assets/Grids/Favorite-Fiction/Lumine.png
+[image-webcomic19]: /Assets/Grids/Favorite-Fiction/Morgana%20and%20Oz.png
+[image-webcomic20]: /Assets/Grids/Favorite-Fiction/My%20Giant%20Nerd%20Boyfriend.png
+[image-webcomic21]: /Assets/Grids/Favorite-Fiction/Nerd%20and%20Jock%20-%20Jock%20Failed.png
+[image-webcomic22]: /Assets/Grids/Favorite-Fiction/Nerd%20and%20Jock%20-%20Stargazing.png
+[image-webcomic23]: /Assets/Grids/Favorite-Fiction/Nerd%20and%20Jock%20-%20Vingettes.png
+[image-webcomic24]: /Assets/Grids/Favorite-Fiction/Rebirth.png
+[image-webcomic25]: /Assets/Grids/Favorite-Fiction/Shelter.png
+[image-webcomic26]: /Assets/Grids/Favorite-Fiction/The%20Spectrum%20of%20Us.png
+[image-webcomic27]: /Assets/Grids/Favorite-Fiction/Spellward%20Bound.png
+[image-webcomic28]: /Assets/Grids/Favorite-Fiction/Villian%20With%20a%20Crush%20-%20Rosa%20against%20wall.png
+[image-webcomic29]: /Assets/Grids/Favorite-Fiction/Villian%20With%20a%20Crush%20-%20Rosa%20with%20Bun%20against%20wall.png
+[image-webcomic30]: /Assets/Grids/Favorite-Fiction/Villian%20With%20a%20Crush%20-%20Rosa%20with%20Mask%20against%20wall.png
+[image-webcomic31]: /Assets/Grids/Favorite-Fiction/XKCD.png
 
 [the-big-windup]: https://www.crunchyroll.com/series/GP5HJ8EDW/big-windup
 [tokyo-ghoul]: https://tokyoghoul.online/
