@@ -51,13 +51,13 @@ To Leave, the game, was missing grids but the makers had created several wallpap
 
 You can find more of my Steam-grid work [here](https://www.steamgriddb.com/profile/76561197998525805)
 
-### Anime/Manga ###
+### Anime/Manga I like ###
 
 | [![Avatar: The Last Airbender][anime01]][avatar] | [![Azumanga Daioh][anime02]][azumanga-daioh] | [![The Big Windup][anime03]][the-big-windup] |
 | :---: | :---: | :---: |
 | [![Ouran High School Host Club][anime04]][host-club] | [![Pokemon The Animated Series (seasons 1-3)][anime05]][pokemon] | [![Tokyo Ghoul (Manga)][anime06]][tokyo-ghoul] |
 
-### Webcomics ###
+### Webcomics I like ###
 
 | [![The Blacksmith Shop][webcomic01]][the-blacksmith-shop] | [![Brass and Sass][webcomic02]][brass-and-sass] | [![Colorless][webcomic03]][colorless] | 
 | :---: | :---: | :---: |
