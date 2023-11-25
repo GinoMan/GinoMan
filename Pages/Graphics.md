@@ -195,7 +195,7 @@ I generated this diagram for everyone confused by the documentation for VSCode S
 
 [anime01]: /Assets/Grids/Favorite-Fiction/Avatar%20-%20The%20Last%20Airbender.png
 [anime02]: /Assets/Grids/Favorite-Fiction/Azumanga%20Daioh.png
-[anime03]: /Assets/Grids/Favorite-Fiction/The%20Big%20Windup.png)
+[anime03]: /Assets/Grids/Favorite-Fiction/The%20Big%20Windup.png
 [anime04]: /Assets/Grids/Favorite-Fiction/Ouran%20High%20School%20Host%20Club.png
 [anime05]: /Assets/Grids/Favorite-Fiction/Pokemon%20-%20The%20Kanto%20Region.png
 [anime06]: /Assets/Grids/Favorite-Fiction/Tokyo%20Ghoul.png
