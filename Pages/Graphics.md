@@ -105,8 +105,16 @@ This UI was built to log phone calls and the machines they were associated with 
 I generated this diagram for everyone confused by the documentation for VSCode Snippet Tabstops (including myself). The documentation used to create this diagram is [here](https://code.visualstudio.com/docs/editor/userdefinedsnippets). I used this online generator: [Railroad Diagram Generator](https://railroad.omegatower.net/index.html). The code fed to the generator is [here](/Assets/Diagrams/vscode-snippets.js).
 
 <div align="center">
-<img alt="Diagram" src="/Assets/Diagrams/Snippet%20Tabstop%20Railroad%20Diagram.png">
+<img alt="Tabstop Railroad Diagram" src="/Assets/Diagrams/Snippet%20Tabstop%20Railroad%20Diagram.png">
 </div>
+
+<!-- I created this rough diagram by stitching together screenshots of a speedrun of this part of Metroid: Samus Returns. It was a difficult segment so trying to remember how to beat it every time was rough. Creating this map helped. 
+
+<div align="center">
+<a href="/Assets/Diagrams/Samus Returns - Diggernaut Run.png">
+<img alt="Diggernaut Run Map" src="/Assets/Diagrams/Samus Returns - Diggernaut Run - 1300px Thumbnail.png" />
+</a>
+</div> -->
 
 [grids01]: /Assets/Grids/Alpha%20Mission%20Full.png
 [grids02]: /Assets/Grids/Alpha%20Mission%202.png
