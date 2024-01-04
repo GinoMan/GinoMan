@@ -47,7 +47,7 @@ Welcome student! Below are the things that you need to make up for school.
 
 ### Social Studies ###
 
-None Yet
+- None Yet
 
 ### Science ###
 
@@ -70,17 +70,19 @@ None Yet
 
 ### Executive Functioning ###
 
-None
+- None
 
 ### ELA Extension ###
 
-None
+- None
 
 ### Art ###
 
-None
+- None
 
-## Links ##
+---
+
+## Links to helpful websites ##
 
 <table>
 <tr>
