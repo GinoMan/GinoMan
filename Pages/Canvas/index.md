@@ -35,15 +35,15 @@ Welcome student! Below are the things that you need to make up for school.
 
 ## Links 
 
-<table style="border: none">
+<table style="border: none;">
 <tr>
-    <td>
+    <td alignment="center">
+        <a href="https://www.khanacademy.org/math/get-ready-for-7th-grade"><img width="33%" src="/Assets/Canvas/Images/khan.png" alt="Khan Academy" /></a>
+    </td>
+    <td alignment="center">
         <a href="https://www.khanacademy.org/math/get-ready-for-7th-grade"><img width="33%" src="/Assets/Canvas/Images/khan.png" alt="" /></a>
     </td>
-    <td>
-        <a href="https://www.khanacademy.org/math/get-ready-for-7th-grade"><img width="33%" src="/Assets/Canvas/Images/khan.png" alt="" /></a>
-    </td>
-    <td>
+    <td alignment="center">
         <a href="https://www.khanacademy.org/math/get-ready-for-7th-grade"><img width="33%" src="/Assets/Canvas/Images/khan.png" alt="" /></a>
     </td>
 </tr>
