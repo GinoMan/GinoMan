@@ -1,6 +1,10 @@
 # Welcome to Gino's Canvas #
 
-Welcome student! Below are the things that you need to make up for school. 
+<div align="center"><img src="/Assets/Canvas/Images/Chibi Manga Drawing of Gino 1024.png" alt="Mr. Gino Vincenzini"><br />
+
+Welcome student! Below are the things that you need to make up for school.</div>
+
+---
 
 ## Subject Assignments and Make-up Work ##
 

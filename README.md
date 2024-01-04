@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD013 -->
 
-<div  align="center">
+<div align="center">
 <a href="https://GinoVincenzini.com" alt="Gino Vincenzini | Programming, Design, Art, Documentation"><img src="/Assets/Badges/gino-vincenzini-programming-%20-design-%20-art-%20-documentation.svg" /></a>
 </div>
 <hr/>
