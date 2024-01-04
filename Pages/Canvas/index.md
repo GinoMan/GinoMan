@@ -37,7 +37,7 @@ Welcome student! Below are the things that you need to make up for school.
 <table style="border: none">
 <tr>
     <td>
-        <a href="https://www.khanacademy.org/math/get-ready-for-7th-grade"><img width="40" src="/Assets/Canvas/Images/khan.svg" alt="" /></a>
+        <a href="https://www.khanacademy.org/math/get-ready-for-7th-grade"><img width="40" src="/Assets/Canvas/Images/khan.png" alt="" /></a>
     </td>
 </tr>
 </table>
