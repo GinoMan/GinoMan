@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Gino's Canvas #
 
 Welcome student! Below are the things that you need to make up for school. 
