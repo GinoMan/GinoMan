@@ -84,11 +84,11 @@ None
 
 <table>
 <tr>
-	<td>Icon</td>
+	<td width="20%">Icon</td>
 	<td>Link to Assignment</td>
 </tr>
 <tr>
-	<td><a href="https://www.khanacademy.org/math/get-ready-for-7th-grade">
+	<td width="20%"><a href="https://www.khanacademy.org/math/get-ready-for-7th-grade">
 		<img src="/Assets/Canvas/Images/khan.png" alt="Khan Academy | 7th Grade Math Prerequisites" width="20%" />
 	</a></td>
 	<td><a href="https://www.khanacademy.org/math/get-ready-for-7th-grade">
@@ -96,7 +96,7 @@ None
 	</a></td>
 </tr>
 <tr>
-	<td><a href="https://casdschools.instructure.com">
+	<td width="20%"><a href="https://casdschools.instructure.com">
 		<img src="/Assets/Canvas/Images/Canvas_Bug_Square.png.webp" alt="CASD Student Canvas" width="20%" />
 	</a></td>
 	<td><a href="https://casdschools.instructure.com">
