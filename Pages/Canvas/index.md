@@ -10,21 +10,21 @@ Welcome student! Below are the things that you need to make up for school.
 	<tr>
 		<td>Icon</td>
 		<td>Description</td>
-		<td>Date</td>
+		<td>Due Date</td>
 	</tr>
 	<tr>
-		<a href="/Assets/Canvas/Assignments/12-4-24 Math Makeup.pdf">
-			<td><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/book.svg" alt="Textbook" /></td>
-			<td>Math Textbook Examples, Notes, Problems</td>
-			<td>Dec-04-2024</td>
-		</a>
+		<td><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/book.svg" alt="Textbook" /></td>
+		<td><a href="/Assets/Canvas/Assignments/12-4-24 Math Makeup.pdf">
+			Math Textbook Examples, Notes, Problems
+		</a></td>
+		<td>Dec-04-2024</td>
 	</tr>
 	<tr>
-		<a href="https://casdschools.instructure.com/">
-			<td><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/house-laptop.svg" alt="Laptop at home" /></td>
-			<td>IXL Modules (Login through Canvas)</td>
-			<td>Everyday</td>
-		</a>
+		<td><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/house-laptop.svg" alt="Laptop at home" /></td>
+		<td><a href="https://casdschools.instructure.com/">
+			IXL Modules (Login through Canvas)
+		</a></td>
+		<td>Everyday</td>
 	</tr>
 </table>
 
@@ -37,11 +37,11 @@ Welcome student! Below are the things that you need to make up for school.
 		<td>Date</td>
 	</tr>
 	<tr>
-		<a href="https://casdschools.instructure.com/">
-			<td><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/house-laptop.svg" alt="Laptop at home" /></td>
-			<td>Lexia Time (Login through Canvas)</td>
-			<td>Everyday</td>
-		</a>
+		<td><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/house-laptop.svg" alt="Laptop at home" /></td>
+		<td><a href="https://casdschools.instructure.com/">
+			Lexia Time (Login through Canvas)
+		</a></td>
+		<td>Everyday</td>
 	</tr>
 </table>
 
@@ -51,8 +51,6 @@ None Yet
 
 ### Science ###
 
-https://casdschools.instructure.com/courses/4677/assignments/454578
-
 <table>
 	<tr>
 		<td>Icon</td>
@@ -60,13 +58,13 @@ https://casdschools.instructure.com/courses/4677/assignments/454578
 		<td>Date</td>
 	</tr>
 	<tr>
-		<a href="https://casdschools.instructure.com/courses/4677/assignments/454578">
-			<td><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/house-laptop.svg" alt="Laptop at home" /></td>
-			<td>Edpuzzle | The Amoeba Sisters - Classification of Living Things (Login through Canvas)<br/>
+		<td><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/house-laptop.svg" alt="Laptop at home" /></td>
+		<td><a href="https://casdschools.instructure.com/courses/4677/assignments/454578">
+			Edpuzzle | The Amoeba Sisters - Classification of Living Things (Login through Canvas)<br/>
 			I recommend speaking with Mrs. Kreiger and<br/>
-			asking her to reset progress and try again</td>
-			<td>Dec-04-2024</td>
-		</a>
+			asking her to reset progress and try again
+		</a></td>
+		<td>Dec-04-2024</td>
 	</tr>
 </table>
 
@@ -84,7 +82,11 @@ None
 
 ## Links ##
 
-https://casdschools.instructure.com
+[![Khan Academy | 7th Grade Math Prerequisites](/Assets/Canvas/Images/khan.png) Kahn Academy](https://www.khanacademy.org/math/get-ready-for-7th-grade)
+
+[![CASD Student Canvas](/Assets/Canvas/Images/Canvas_Bug_Square.png.webp) Canvas](https://casdschools.instructure.com)
+
+
 
 ## Mr. Gino's Zoom ##
 
