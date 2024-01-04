@@ -7,11 +7,11 @@ Welcome student! Below are the things that you need to make up for school.
 ### Math ###
 
 <table>
-	<th>
+	<tr>
 		<td>Icon</td>
-		<td>Link</td>
+		<td>Description</td>
 		<td>Date</td>
-	</th>
+	</tr>
 	<tr>
 		<a href="/Assets/Canvas/Assignments/12-4-24 Math Makeup.pdf">
 			<td><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/book.svg" alt="Textbook" /></td>
@@ -31,11 +31,11 @@ Welcome student! Below are the things that you need to make up for school.
 ### ELA ###
 
 <table>
-	<th>
+	<tr>
 		<td>Icon</td>
-		<td>Link</td>
+		<td>Description</td>
 		<td>Date</td>
-	</th>
+	</tr>
 	<tr>
 		<a href="https://casdschools.instructure.com/">
 			<td><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/house-laptop.svg" alt="Laptop at home" /></td>
@@ -54,11 +54,11 @@ None Yet
 https://casdschools.instructure.com/courses/4677/assignments/454578
 
 <table>
-	<th>
+	<tr>
 		<td>Icon</td>
-		<td>Link</td>
+		<td>Description</td>
 		<td>Date</td>
-	</th>
+	</tr>
 	<tr>
 		<a href="https://casdschools.instructure.com/courses/4677/assignments/454578">
 			<td><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/house-laptop.svg" alt="Laptop at home" /></td>
