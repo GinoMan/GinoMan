@@ -10,7 +10,7 @@ Welcome student! Below are the things that you need to make up for school.</div>
 
 ### Math ###
 
-<table>
+<table width="100%">
 	<tr>
 		<td>Icon</td>
 		<td>Description</td>
@@ -34,7 +34,7 @@ Welcome student! Below are the things that you need to make up for school.</div>
 
 ### ELA ###
 
-<table>
+<table width="100%">
 	<tr>
 		<td>Icon</td>
 		<td>Description</td>
@@ -55,7 +55,7 @@ Welcome student! Below are the things that you need to make up for school.</div>
 
 ### Science ###
 
-<table>
+<table width="100%">
 	<tr>
 		<td>Icon</td>
 		<td>Description</td>
@@ -88,7 +88,7 @@ Welcome student! Below are the things that you need to make up for school.</div>
 
 ## Links to helpful websites ##
 
-<table>
+<table width="100%">
 <tr>
 	<td width="15%">Icon</td>
 	<td>Link to Assignment</td>
@@ -121,3 +121,44 @@ Meeting ID: `666 472 2799`
 Passcode: `casd2324`
 
 ---
+
+## Links for students wanting to learn Programming ##
+
+<table width="100%">
+<tr>
+	<td width="15%">Icon</td>
+	<td>Link To Website</td>
+</tr>
+<tr>
+	<td width="15%"><a href="https://replit.com">
+		<img src="/Assets/Canvas/Images/replit.png" alt="Replit.com Online IDE" />
+	</a></td>
+	<td><a href="https://replit.com">
+		Replit.com Online IDE
+	</a></td>
+</tr>
+<tr>
+	<td width="15%"><a href="https://inventwithpython.com/invent4thed/">
+		<img src="/Assets/Canvas/Images/cover_invent4th_thumb.webp" alt="Invent Your Own Computer Games With Python" />
+	</a></td>
+	<td><a href="https://inventwithpython.com/invent4thed/">
+		Invent Your Own Computer Games With Python
+	</a></td>
+</tr>
+<tr>
+	<td width="15%"><a href="https://automatetheboringstuff.com/">
+		<img src="/Assets/Canvas/Images/cover_automate2_thumb.jpg" alt="Automate the Boring Stuff with Python" />
+	</a></td>
+	<td><a href="https://automatetheboringstuff.com/">
+		Automate the Boring Stuff with Python
+	</a></td>
+</tr>
+<tr>
+	<td width="15%"><a href="https://turtleappstore.com/book/">
+		<img src="/Assets/Canvas/Images/book_cover_coding_with_minecraft.jpg" alt="Coding with Minecraft" />
+	</a></td>
+	<td><a href="https://turtleappstore.com/book/">
+		Coding with Minecraft
+	</a></td>
+</tr>
+</table>
