@@ -72,7 +72,20 @@ Welcome student! Below are the things that you need to make up for school.</div>
 
 ### Social Studies ###
 
-- None Yet
+<table width="100%">
+	<tr>
+		<td>Icon</td>
+		<td>Description</td>
+		<td>Date</td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/copy.svg" alt="Worksheet" /></td>
+		<td><a href="/Assets/Canvas/Assignments/ELA Assignment 1-8-24.pdf">
+			Quiz for Social Studies and Notes. He may only use notes sheet attached to do Quiz at home.
+		</a></td>
+		<td>Jan-08-2024</td>
+	</tr>
+</table>
 
 ### Science ###
 
