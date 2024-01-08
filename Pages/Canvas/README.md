@@ -48,7 +48,14 @@ Welcome student! Below are the things that you need to make up for school.</div>
 		<td>Date</td>
 	</tr>
 	<tr>
-		<td><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/copy.svg" alt="Laptop at home" /></td>
+		<td><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/copy.svg" alt="Worksheet" /></td>
+		<td><a href="/Assets/Canvas/Assignments/ELA Warmup 1-8-24.pdf">
+			ELA Warm-up - Finding Analogies.
+		</a></td>
+		<td>Jan-08-2024</td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/copy.svg" alt="Worksheet" /></td>
 		<td><a href="/Assets/Canvas/Assignments/ELA Assignment 1-8-24.pdf">
 			ELA Boardwork writing for inside his notebook.
 		</a></td>
