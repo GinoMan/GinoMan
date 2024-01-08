@@ -1,6 +1,8 @@
 # Welcome to Gino's Canvas #
 
-<div align="center" style="width: 50%"><img src="/Assets/Canvas/Images/Chibi Manga Drawing of Gino 1024.png" alt="Mr. Gino Vincenzini"><br />
+<div align="center"><img src="/Assets/Canvas/Images/Chibi Manga Drawing of Gino 1024.png" alt="Mr. Gino Vincenzini" width="50%"></div>
+
+<br />
 
 Welcome student! Below are the things that you need to make up for school.</div>
 
