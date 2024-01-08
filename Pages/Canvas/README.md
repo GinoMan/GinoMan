@@ -28,7 +28,7 @@ Welcome student! Below are the things that you need to make up for school.</div>
 		<td><a href="/Assets/Canvas/Assignments/12-8-24 Math Makeup.pdf">
 			Math Textbook Examples, Notes, Problems
 		</a></td>
-		<td>Dec-04-2024</td>
+		<td>Dec-08-2024</td>
 	</tr>
 	<tr>
 		<td><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/house-laptop.svg" alt="Laptop at home" /></td>
