@@ -54,13 +54,6 @@ Welcome student! Below are the things that you need to make up for school.</div>
 		</a></td>
 		<td>Everyday</td>
 	</tr>
-	<tr>
-		<td><i class="fa-solid fa-copy"></i></td>
-		<td><a href="https://casdschools.instructure.com/">
-			Lexia Time (Login through Canvas)
-		</a></td>
-		<td>Everyday</td>
-	</tr>
 </table>
 
 ### Social Studies ###
