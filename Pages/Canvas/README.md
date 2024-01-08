@@ -1,6 +1,6 @@
 # Welcome to Gino's Canvas #
 
-<div align="center"><img src="/Assets/Canvas/Images/Chibi Manga Drawing of Gino 1024.png" alt="Mr. Gino Vincenzini"><br />
+<div align="center" style="width: 50%"><img src="/Assets/Canvas/Images/Chibi Manga Drawing of Gino 1024.png" alt="Mr. Gino Vincenzini"><br />
 
 Welcome student! Below are the things that you need to make up for school.</div>
 
@@ -21,14 +21,14 @@ Welcome student! Below are the things that you need to make up for school.</div>
 		<td><a href="/Assets/Canvas/Assignments/12-4-24 Math Makeup.pdf">
 			Math Textbook Examples, Notes, Problems
 		</a></td>
-		<td>Dec-04-2024</td>
+		<td>Jan-04-2024</td>
 	</tr>
 	<tr>
 		<td><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/book.svg" alt="Textbook" /></td>
 		<td><a href="/Assets/Canvas/Assignments/12-8-24 Math Makeup.pdf">
 			Math Textbook Examples, Notes, Problems
 		</a></td>
-		<td>Dec-08-2024</td>
+		<td>Jan-08-2024</td>
 	</tr>
 	<tr>
 		<td><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/house-laptop.svg" alt="Laptop at home" /></td>
@@ -46,6 +46,13 @@ Welcome student! Below are the things that you need to make up for school.</div>
 		<td>Icon</td>
 		<td>Description</td>
 		<td>Date</td>
+	</tr>
+	<tr>
+		<td><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/copy.svg" alt="Laptop at home" /></td>
+		<td><a href="/Assets/Canvas/Assignments/ELA Assignment 1-8-24.pdf">
+			ELA Boardwork writing for inside his notebook.
+		</a></td>
+		<td>Jan-08-2024</td>
 	</tr>
 	<tr>
 		<td><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/house-laptop.svg" alt="Laptop at home" /></td>
