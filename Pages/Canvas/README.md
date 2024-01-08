@@ -80,7 +80,7 @@ Welcome student! Below are the things that you need to make up for school.</div>
 	</tr>
 	<tr>
 		<td><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/copy.svg" alt="Worksheet" /></td>
-		<td><a href="/Assets/Canvas/Assignments/ELA Assignment 1-8-24.pdf">
+		<td><a href="/Assets/Canvas/Assignments/Social Studies Quiz - Notes for Quiz.pdf">
 			Quiz for Social Studies and Notes. He may only use notes sheet attached to do Quiz at home.
 		</a></td>
 		<td>Jan-08-2024</td>
