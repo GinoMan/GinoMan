@@ -82,7 +82,7 @@ Welcome student! Below are the things that you need to make up for school.</div>
 			I recommend speaking with Mrs. Kreiger and<br/>
 			asking her to reset progress and try again
 		</a></td>
-		<td>Dec-04-2024</td>
+		<td>Jan-04-2024</td>
 	</tr>
 </table>
 
