@@ -99,8 +99,7 @@ Welcome student! Below are the things that you need to make up for school.</div>
 		<td><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/house-laptop.svg" alt="Laptop at home" /></td>
 		<td><a href="https://casdschools.instructure.com/courses/4677/assignments/454578">
 			Edpuzzle | The Amoeba Sisters - Classification of Living Things (Login through Canvas)<br/>
-			I recommend speaking with Mrs. Kreiger and<br/>
-			asking her to reset progress and try again
+			I recommend speaking with Mrs. Kreiger and asking her to reset progress and try again
 		</a></td>
 		<td>Jan-04-2024</td>
 	</tr>
